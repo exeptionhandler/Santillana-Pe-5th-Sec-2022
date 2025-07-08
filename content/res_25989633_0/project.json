@@ -1,0 +1,3932 @@
+{
+  "es": {
+    "revision": {
+      "id": "c9cc0dff781d659d83f149e2bcf68370",
+      "index": "3",
+      "author": { "id_user": 62, "username": "amoglia" },
+      "is_working_copy": false,
+      "is_blocked_by_other": false,
+      "description": null,
+      "tag": null,
+      "content_version": null,
+      "date": "2022/06/23 23:25:31",
+      "workflowPlace": "draft",
+      "antiplagiarismPlace": null
+    },
+    "project": {
+      "id": 27414,
+      "name": "CREO_Global_IVC_15_a_17_Proy2_etapa_4",
+      "code": "CODE-os1UglV5",
+      "id_parent": 26998,
+      "template": {
+        "id": 529,
+        "name": "Santillana Global",
+        "compatibleTemplates": [{ "id": 529, "name": "Santillana Global" }]
+      },
+      "titles": { "es": "Prueba_CREO_Global" },
+      "navigation_type": { "name": "free", "value": "0" }
+    },
+    "language": "es",
+    "components": {
+      "58b9065a3e627ba2a8f914ef65379993": {
+        "id": "58b9065a3e627ba2a8f914ef65379993",
+        "name": "module",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": null,
+        "properties": [],
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "16418e8159cdeed9b6581079eb1b39c1",
+          "940b26e5d197753391a93691d0045721",
+          "c3a87f64cdf1b671c8ff36c5530c20b2",
+          "791da86b8857067f2e2294ebb56ef155"
+        ]
+      },
+      "16418e8159cdeed9b6581079eb1b39c1": {
+        "id": "16418e8159cdeed9b6581079eb1b39c1",
+        "name": "interface",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "58b9065a3e627ba2a8f914ef65379993",
+        "properties": {
+          "view": "interface_view_529-001",
+          "look": "interface_view_529-001_look_001",
+          "title1": "<p><strong>Etapa 4: \u00bfC\u00f3mo podemos ser instrumentos de Dios para el desarrollo en nuestro pa\u00eds?&nbsp;</strong></p>",
+          "title2": "<p>ITINERARIO DE VIDA CRISTIANA</p>",
+          "title3": "<p>Title 3</p>",
+          "title4": "<p> </p>",
+          "title5": "<p> </p>",
+          "title6": "<p> </p>",
+          "adventureCode": "",
+          "colorToolbarApi": "#FFFFFF",
+          "showMenu": "true",
+          "showGraphicMenuIcon": "false",
+          "showPrintActivities": "true",
+          "accessibilityMode": "true",
+          "showRessourcesMenuIcon": "true",
+          "showGoTo": "false",
+          "orderRessourcesMenu": "content",
+          "unitOrder": "",
+          "backgroundColorOption": "#FFFFFF",
+          "borderColorOption": "#FFFFFF",
+          "showObjetivesTeacherMode": "false",
+          "gamificationMode": "false",
+          "showFocusText": "false",
+          "textFont": "",
+          "titleFont": "",
+          "sendButtonText": "send",
+          "activateReadSpeaker": "false",
+          "inactivityTime": "10",
+          "collapsedSubmenu": "false",
+          "activateDictionary": "false",
+          "dictionaryIcon": "",
+          "menuBackgroundColor": "#FFFFFF",
+          "menuTextColor": "",
+          "backgroundImage3": "GettyImages-1213736963.jpg"
+        },
+        "resourceProperties": {
+          "dictionaryIcon": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title1": [],
+          "title2": [],
+          "title3": [],
+          "title4": [],
+          "title5": [],
+          "title6": []
+        },
+        "componentChildren": ["2ba6e10c33158f7db0d2a652c9297ca6"]
+      },
+      "2ba6e10c33158f7db0d2a652c9297ca6": {
+        "id": "2ba6e10c33158f7db0d2a652c9297ca6",
+        "name": "showCloseIcon",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "16418e8159cdeed9b6581079eb1b39c1",
+        "properties": {
+          "view": "showCloseIcon_view_529-001",
+          "look": "showCloseIcon_view_529-001_look_001",
+          "showWarning": "true"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": []
+      },
+      "940b26e5d197753391a93691d0045721": {
+        "id": "940b26e5d197753391a93691d0045721",
+        "name": "pageBlock",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "58b9065a3e627ba2a8f914ef65379993",
+        "properties": [],
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "cb25273b92cf9b6c7b5a175c811a57ff",
+          "c9169551e62e217e8f43a641c6a82938",
+          "0d3d05d74f35d7bda96bfc0982977011",
+          "04c5cc7796b10f25f35ec6051ae87273",
+          "fd0a6d810db80fa0b7d0552311dfeab4"
+        ]
+      },
+      "cb25273b92cf9b6c7b5a175c811a57ff": {
+        "id": "cb25273b92cf9b6c7b5a175c811a57ff",
+        "name": "pageContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "940b26e5d197753391a93691d0045721",
+        "properties": {
+          "primaryColor": "#79e9e5",
+          "secondaryColor": "",
+          "referencedView": "interface_view_529-001",
+          "view": "pageContent_view_529-005",
+          "look": "pageContent_view_529-005_look_001",
+          "index": "?",
+          "titleHtml": "Page Title",
+          "title2Html": "Page Title 2",
+          "title3Html": "Page Title 3",
+          "title": "Portada",
+          "intervalTime": "6",
+          "srcLogoCover": "",
+          "srcCover": "",
+          "backgroundImage": "Portada_Aprender_para_la_vida.png",
+          "backgroundImage2": "GettyImages-606351693.jpg",
+          "backgroundImage3": "",
+          "backgroundImage4": ""
+        },
+        "resourceProperties": {
+          "srcLogoCover": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "srcCover": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "backgroundImage": {
+            "id": "bf647843c4aa62cf666603ef4c4064b7",
+            "relativePath": "Portada_Aprender_para_la_vida.png",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582336,
+            "url": "resources/portada_aprender_para_la_vida.png",
+            "width": 8334,
+            "height": 6251
+          },
+          "backgroundImage2": {
+            "id": "8910e27e97316982bbb389964471fa02",
+            "relativePath": "GettyImages-606351693.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651589048,
+            "url": "resources/aebf22gettyimages606351693.jpg",
+            "width": 2600,
+            "height": 1733
+          },
+          "backgroundImage3": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "backgroundImage4": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "index": [],
+          "titleHtml": [],
+          "title2Html": [],
+          "title3Html": []
+        },
+        "componentChildren": ["344f24c720dfab79fb418ef55094c249"]
+      },
+      "344f24c720dfab79fb418ef55094c249": {
+        "id": "344f24c720dfab79fb418ef55094c249",
+        "name": "blocks",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "cb25273b92cf9b6c7b5a175c811a57ff",
+        "properties": {
+          "view": "blocks_view_529-002",
+          "look": "blocks_view_529-002_look_001",
+          "titleHtml": "Block Title",
+          "coverTitle": "<span style=\"font-size:3rem;\"><span style=\"color:#ffffff;\">Proyecto: \u00bfCu\u00e1l es mi responsabilidad frente a lo que sucede en mi pa\u00eds?</span></span><br><span style=\"font-size:1.875rem;\"><span style=\"color:#ffffff;\">Etapa 4: \u00bfC\u00f3mo podemos ser instrumentos de Dios para el desarrollo en nuestro pa\u00eds?</span></span>",
+          "coverSubtitle": "<span style=\"color:#ffffff;\"><span style=\"line-height:42px;\"><span style=\"font-size:1.3125rem;\"><span style=\"background-color:#f0a94d;\">&nbsp; ITINERARIO DE VIDA CRISTIANA&nbsp;&nbsp;</span></span></span></span>",
+          "columsize": "6",
+          "offset": "0",
+          "showTitle": "false",
+          "backgroundColor": "#ffffff",
+          "backgroundOpacity": "0.2",
+          "backgroundTransparent": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "titleHtml": [],
+          "coverTitle": [],
+          "coverSubtitle": []
+        },
+        "componentChildren": ["0b3fa6b6540b3ed6378f2f43db099303"]
+      },
+      "0b3fa6b6540b3ed6378f2f43db099303": {
+        "id": "0b3fa6b6540b3ed6378f2f43db099303",
+        "name": "link",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "344f24c720dfab79fb418ef55094c249",
+        "properties": {
+          "view": "link_view_529-003",
+          "title": "Link Title",
+          "look": "link_view_529-003_look_001",
+          "titleHtml": "<p><strong><span style=\"font-size:1rem;\"><span style=\"font-family:'lato';\">PARA COMENZAR</span></span></strong></p>",
+          "title2Html": "Description Link",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "pageLink": "c9169551e62e217e8f43a641c6a82938",
+          "srcHtml5": "",
+          "indexName": "index.html",
+          "backgroundColor": "#79e9e5",
+          "sidebar": "",
+          "menuLink": "false",
+          "digitalObject": "false",
+          "iconRessourcesMenu": ""
+        },
+        "resourceProperties": {
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "srcHtml5": {
+            "id": "a5dc98757eccefcf81d3963f91c41e50",
+            "relativePath": ".",
+            "parent": null,
+            "type": "ExternalContentResource",
+            "timestamp": 1651589048,
+            "url": "",
+            "indexUrl": "",
+            "metadata": null
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": { "titleHtml": [], "title2Html": [] },
+        "componentChildren": []
+      },
+      "c9169551e62e217e8f43a641c6a82938": {
+        "id": "c9169551e62e217e8f43a641c6a82938",
+        "name": "pageContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "940b26e5d197753391a93691d0045721",
+        "properties": {
+          "referencedView": "interface_view_529-001",
+          "view": "pageContent_view_529-003",
+          "look": "pageContent_view_529-002_look_001",
+          "index": "?",
+          "titleHtml": "Page Title",
+          "title2Html": "Page Title 2",
+          "title3Html": "Page Title 3",
+          "primaryColor": "#f0a94d",
+          "secondaryColor": "#66c1be",
+          "title": "Experimentamos",
+          "backgroundMode": "fixed",
+          "backgroundImage": "Cabezal_Aprender para la vida.png",
+          "backgroundColor": ""
+        },
+        "resourceProperties": {
+          "backgroundImage": {
+            "id": "2546f36a7ff7ba01f249928d8c2eeb39",
+            "relativePath": "Cabezal_Aprender%20para%20la%20vida.png",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582335,
+            "url": "resources/dc7963cabezal_aprenderparalavida.png",
+            "width": 4167,
+            "height": 1454
+          }
+        },
+        "htmlResourceProperties": {
+          "index": [],
+          "titleHtml": [],
+          "title2Html": [],
+          "title3Html": []
+        },
+        "componentChildren": [
+          "d327f57bf441d9adaa0917380ffe5a18",
+          "aee9ef23c9e5440187612005f1c630e8"
+        ]
+      },
+      "d327f57bf441d9adaa0917380ffe5a18": {
+        "id": "d327f57bf441d9adaa0917380ffe5a18",
+        "name": "footerPage",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "c9169551e62e217e8f43a641c6a82938",
+        "properties": {
+          "view": "footerPage_view_529-001",
+          "look": "footerPage_view_529-001_look_001",
+          "titleHtml": "Footer title"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["b369238c01a9ad81e2f3b16ddf971be1"]
+      },
+      "b369238c01a9ad81e2f3b16ddf971be1": {
+        "id": "b369238c01a9ad81e2f3b16ddf971be1",
+        "name": "footerPageCommon",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "d327f57bf441d9adaa0917380ffe5a18",
+        "properties": { "view": "footerPageCommon_view_529-001", "look": "" },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": []
+      },
+      "aee9ef23c9e5440187612005f1c630e8": {
+        "id": "aee9ef23c9e5440187612005f1c630e8",
+        "name": "blocks",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "c9169551e62e217e8f43a641c6a82938",
+        "properties": {
+          "view": "blocks_view_529-002",
+          "look": "blocks_view_529-002_look_001",
+          "titleHtml": "Block Title",
+          "coverTitle": "Page title",
+          "coverSubtitle": "Page title 2",
+          "columsize": "10",
+          "offset": "1",
+          "showTitle": "false",
+          "backgroundColor": "#ffffff",
+          "backgroundOpacity": "1",
+          "backgroundTransparent": "false",
+          "showInMenu": "false",
+          "titleInMenu": "Block title"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "titleHtml": [],
+          "coverTitle": [],
+          "coverSubtitle": []
+        },
+        "componentChildren": [
+          "fc52ba5e8bbec67ea122966f1d6d6e96",
+          "6f6bd552b72f09b1662e2c28e45a00ad"
+        ]
+      },
+      "fc52ba5e8bbec67ea122966f1d6d6e96": {
+        "id": "fc52ba5e8bbec67ea122966f1d6d6e96",
+        "name": "panel",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aee9ef23c9e5440187612005f1c630e8",
+        "properties": {
+          "view": "panel_view_529-002",
+          "look": "panel_view_529-002_look_001",
+          "title": "<h5><span style=\"color:#f0701b;\"><strong>Experimentamos</strong></span></h5>",
+          "title2html": "Panel title 2",
+          "title3html": "Panel title 3",
+          "backgroundImageFooter": "backgroundImage Footer",
+          "borderColor2": "",
+          "borderWidth": "",
+          "backgroundColor": "#f0a94d",
+          "shortView": "view_529-002",
+          "shortLook": "look_001",
+          "backgroundColorHeader2": "",
+          "backgroundColorHeader1": "#f54528"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "title": [],
+          "title2html": [],
+          "title3html": [],
+          "backgroundImageFooter": []
+        },
+        "componentChildren": [
+          "5309b79627d973aedbc6e44b2c728399",
+          "2a392e9e5eff3d1c0bb39c9944c62703"
+        ]
+      },
+      "5309b79627d973aedbc6e44b2c728399": {
+        "id": "5309b79627d973aedbc6e44b2c728399",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "fc52ba5e8bbec67ea122966f1d6d6e96",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ffffff;\">Seguramente, han escuchado varias veces la expresi\u00f3n <em>ser instrumento de Dios</em>. \u00bfSaben qu\u00e9 significa, realmente?</span></p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "2a392e9e5eff3d1c0bb39c9944c62703": {
+        "id": "2a392e9e5eff3d1c0bb39c9944c62703",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "fc52ba5e8bbec67ea122966f1d6d6e96",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["3df728e20903506848aae43451680a2c"]
+      },
+      "3df728e20903506848aae43451680a2c": {
+        "id": "3df728e20903506848aae43451680a2c",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "2a392e9e5eff3d1c0bb39c9944c62703",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#CC6699",
+          "textContent": "<p>Revise todos los momentos de esta etapa y los <strong><a class=\"nf-linkresource\" href=\"CREO21_IVC_15_17_propuesta_02_ETAPA_4_pdf1.pdf\" id=\"resourcelink_852b2f6fbc5446a8b73a0d2e6d5bcb35\" target=\"_blank\" title=\"\"><span style=\"color:#ff0099;\">materiales</span></a>&nbsp;</strong>necesarios para la planificaci\u00f3n de las actividades.</p>",
+          "omitFocus": "true",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "textContent": [
+            {
+              "id": "88f642030b6cc8821dd667a9fb22f622",
+              "relativePath": "CREO21_IVC_15_17_propuesta_02_ETAPA_4_pdf1.pdf",
+              "parent": null,
+              "type": "FileResource",
+              "timestamp": 1651583012,
+              "url": "resources/creo21_ivc_15_17_propuesta_02_etapa_4_pdf1.pdf",
+              "domId": "resourcelink_852b2f6fbc5446a8b73a0d2e6d5bcb35",
+              "domClass": "nf-linkresource",
+              "originalUrl": "CREO21_IVC_15_17_propuesta_02_ETAPA_4_pdf1.pdf"
+            }
+          ]
+        },
+        "componentChildren": []
+      },
+      "6f6bd552b72f09b1662e2c28e45a00ad": {
+        "id": "6f6bd552b72f09b1662e2c28e45a00ad",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aee9ef23c9e5440187612005f1c630e8",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["afe6faae45ff8571aaa6c0ab5066186c"]
+      },
+      "afe6faae45ff8571aaa6c0ab5066186c": {
+        "id": "afe6faae45ff8571aaa6c0ab5066186c",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "6f6bd552b72f09b1662e2c28e45a00ad",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "b407071b06c61a79cb5a7d6f5db4cd4b",
+          "8c6708edcd20d8143bedf72ef4f6147b",
+          "8d07e6938b4e2a4664df2045989f8978",
+          "f0cdb03ab4d2a357d185d16a89bb5277",
+          "7b0f9abec3c64afa5914830736239d91",
+          "45ac6aa796fc498fa6b1db3285f8df2c"
+        ]
+      },
+      "b407071b06c61a79cb5a7d6f5db4cd4b": {
+        "id": "b407071b06c61a79cb5a7d6f5db4cd4b",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "afe6faae45ff8571aaa6c0ab5066186c",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["6e9d7ba7cc2a3838951b5c8b59c52df6"]
+      },
+      "6e9d7ba7cc2a3838951b5c8b59c52df6": {
+        "id": "6e9d7ba7cc2a3838951b5c8b59c52df6",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "b407071b06c61a79cb5a7d6f5db4cd4b",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Tiempo estimado: 45 minutos.</p><p>Para la din\u00e1mica propuesta, organice a los estudiantes en grupos de no m\u00e1s de cuatro integrantes. Tenga en cuenta que se derramar\u00e1 agua, por lo tanto, se recomienda realizar la actividad en un lugar al aire libre o en el que no haya inconvenientes si el piso se moja.&nbsp;</p><p>Previamente, disponga en el lugar una mesa para cada grupo con diez vasos pl\u00e1sticos del mismo tama\u00f1o y una jarra con agua.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "8c6708edcd20d8143bedf72ef4f6147b": {
+        "id": "8c6708edcd20d8143bedf72ef4f6147b",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "afe6faae45ff8571aaa6c0ab5066186c",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-1353030699.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "iconRessourcesMenu": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001",
+          "float": "right",
+          "width": "ntx-image-width-50",
+          "align": "ntx-comp-align-left"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "70d675bcae5fb75d4da9f20d727b5f41",
+            "relativePath": "GettyImages-1353030699.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582842,
+            "url": "resources/b635f3gettyimages1353030699.jpg",
+            "width": 1100,
+            "height": 1465
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "8d07e6938b4e2a4664df2045989f8978": {
+        "id": "8d07e6938b4e2a4664df2045989f8978",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "afe6faae45ff8571aaa6c0ab5066186c",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#f54528",
+          "textContent": "<p><strong style=\"\"><font color=\"#f54528\">1.</font><font color=\"#f0701b\">&nbsp;</font></strong>Re\u00fananse con sus compa\u00f1eros de equipo y ub\u00edquense en una mesa.</p><p><strong><font color=\"#f54528\">2.</font><font color=\"#f0701b\">&nbsp;</font></strong>Construyan con los vasos una torre o pir\u00e1mide que sea resistente (pueden usar como modelo la que se observa en la foto).</p><p><strong><font color=\"#f54528\">3.</font><font color=\"#f0701b\">&nbsp;</font></strong>Viertan el agua en el vaso que se encuentra en la parte superior, lentamente, para evitar que la torre se desarme. Contin\u00faen vertiendo el agua y dejen que rebase para que, de a poco, comiencen a llenarse los vasos que se encuentran en los niveles inferiores. Intenten llenar todos los vasos vertiendo solo agua en el de arriba.</p><p><strong><font color=\"#f54528\">4.</font><font color=\"#f0701b\">&nbsp;</font></strong>Recojan los vasos y el agua. Luego, conversen en grupo: \u00bfQu\u00e9 relaci\u00f3n creen que tiene esta actividad con ser instrumento de Dios? Compartan sus reflexiones con los dem\u00e1s grupos.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "f0cdb03ab4d2a357d185d16a89bb5277": {
+        "id": "f0cdb03ab4d2a357d185d16a89bb5277",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "afe6faae45ff8571aaa6c0ab5066186c",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["8e460850e3ead6576d3017ba33cfa0e2"]
+      },
+      "8e460850e3ead6576d3017ba33cfa0e2": {
+        "id": "8e460850e3ead6576d3017ba33cfa0e2",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f0cdb03ab4d2a357d185d16a89bb5277",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Luego de que los estudiantes compartan sus percepciones y reflexiones alrededor de la pregunta, recu\u00e9rdeles que ser instrumento de Dios es permitir que \u00c9l act\u00fae a trav\u00e9s de cada uno para llevar su amor a otras personas. Por ejemplo, cuando se acompa\u00f1a y consuela a un amigo que est\u00e1 triste. Eso es ser instrumento divino, dado que Dios est\u00e1 actuando, a trav\u00e9s del amigo, para consolar al otro y llevarle su amor. Anime a los estudiantes a mencionar otros ejemplos.&nbsp;</p><p>En el caso de la din\u00e1mica propuesta, ser instrumento de Dios puede relacionarse con la met\u00e1fora de los vasos o copas porque solo cuando el primer vaso est\u00e1 colmado de l\u00edquido, puede empezar a llenar los dem\u00e1s. Del mismo modo, para ser instrumento de Dios, es necesario, primero, estar lleno de la presencia de Dios, para as\u00ed poder transmitirlo a otros. No es posible compartir lo que no se tiene, por lo cual, cuando una persona se acerca a Dios y tiene una relaci\u00f3n viva, activa y constante con \u00c9l, estar\u00e1 cada vez m\u00e1s \u201clleno\u201d de su amor. De esta manera, se colmar\u00e1 tanto que su amor se desbordar\u00e1 hacia los dem\u00e1s, como hizo el primer vaso al llenarse y empezar a compartir su agua con los otros vasos. Todos estamos llamados a dejarnos inundar por el amor de Dios para desbordarlo a otros.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "7b0f9abec3c64afa5914830736239d91": {
+        "id": "7b0f9abec3c64afa5914830736239d91",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "afe6faae45ff8571aaa6c0ab5066186c",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><strong><font color=\"#f54528\">5.</font><font color=\"#f0701b\">&nbsp;</font></strong>Para identificar c\u00f3mo esto sucede en sus vidas, respondan, por escrito y en forma personal, las siguientes preguntas:</p><ul><li>\u00bfEn qu\u00e9 situaciones nos llenamos de Dios (as\u00ed como se llen\u00f3 de agua el primer vaso)?</li><li>\u00bfQu\u00e9 actitudes o comportamientos se desbordan en nosotros hacia los dem\u00e1s cuando estamos colmados de Dios (como el agua desbord\u00e1ndose hacia los dem\u00e1s vasos)?</li></ul><p><strong><font color=\"#f54528\">6.&nbsp;</font></strong>Compartan con sus compa\u00f1eros.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "45ac6aa796fc498fa6b1db3285f8df2c": {
+        "id": "45ac6aa796fc498fa6b1db3285f8df2c",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "afe6faae45ff8571aaa6c0ab5066186c",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["e879a6219b304ea383c61cf4772d2d07"]
+      },
+      "e879a6219b304ea383c61cf4772d2d07": {
+        "id": "e879a6219b304ea383c61cf4772d2d07",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "45ac6aa796fc498fa6b1db3285f8df2c",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Anime a los estudiantes a compartir voluntariamente sus respuestas. Luego, gu\u00ede un cierre a esta primera actividad en el que todos puedan reconocer que ser instrumento de Dios es estar lleno de su amor y compartir ese amor con otros. Puede apoyarse en el Evangelio de Juan 7, 37-39:</p><blockquote><p><em>El \u00faltimo d\u00eda, el m\u00e1s solemne de la fiesta, Jes\u00fas, poni\u00e9ndose de pie, exclam\u00f3: \u201cEl que tenga sed, venga a m\u00ed; y beba el que cree en m\u00ed\u201d. Como dice la Escritura: \u201cDe su seno brotar\u00e1n manantiales de agua viva\u201d.</em></p><p><em>\u00c9l se refer\u00eda al Esp\u00edritu que deb\u00edan recibir los que creyeran en \u00e9l. Porque el Esp\u00edritu no hab\u00eda sido dado todav\u00eda, ya que Jes\u00fas a\u00fan no hab\u00eda sido glorificado.</em></p></blockquote>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "0d3d05d74f35d7bda96bfc0982977011": {
+        "id": "0d3d05d74f35d7bda96bfc0982977011",
+        "name": "pageContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "940b26e5d197753391a93691d0045721",
+        "properties": {
+          "referencedView": "interface_view_529-001",
+          "view": "pageContent_view_529-003",
+          "look": "pageContent_view_529-002_look_001",
+          "index": "?",
+          "titleHtml": "Page Title",
+          "title2Html": "Page Title 2",
+          "title3Html": "Page Title 3",
+          "primaryColor": "#654574",
+          "secondaryColor": "#66c1be",
+          "title": "Comprendemos",
+          "backgroundMode": "fixed",
+          "backgroundColor": "",
+          "backgroundImage": "Cabezal_Aprender para la vida.png"
+        },
+        "resourceProperties": {
+          "backgroundImage": {
+            "id": "2546f36a7ff7ba01f249928d8c2eeb39",
+            "relativePath": "Cabezal_Aprender%20para%20la%20vida.png",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582335,
+            "url": "resources/dc7963cabezal_aprenderparalavida.png",
+            "width": 4167,
+            "height": 1454
+          }
+        },
+        "htmlResourceProperties": {
+          "index": [],
+          "titleHtml": [],
+          "title2Html": [],
+          "title3Html": []
+        },
+        "componentChildren": [
+          "f49e3c97ebba15c2a45698a9344aa983",
+          "8df80f68019d7d2e7ab844b36b9c9380"
+        ]
+      },
+      "f49e3c97ebba15c2a45698a9344aa983": {
+        "id": "f49e3c97ebba15c2a45698a9344aa983",
+        "name": "footerPage",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "0d3d05d74f35d7bda96bfc0982977011",
+        "properties": {
+          "view": "footerPage_view_529-001",
+          "look": "footerPage_view_529-001_look_001",
+          "titleHtml": "Footer title"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["606fcdd4a5264f77aa64e08dadb969cb"]
+      },
+      "606fcdd4a5264f77aa64e08dadb969cb": {
+        "id": "606fcdd4a5264f77aa64e08dadb969cb",
+        "name": "footerPageCommon",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f49e3c97ebba15c2a45698a9344aa983",
+        "properties": { "view": "footerPageCommon_view_529-001", "look": "" },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": []
+      },
+      "8df80f68019d7d2e7ab844b36b9c9380": {
+        "id": "8df80f68019d7d2e7ab844b36b9c9380",
+        "name": "blocks",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "0d3d05d74f35d7bda96bfc0982977011",
+        "properties": {
+          "view": "blocks_view_529-002",
+          "look": "blocks_view_529-002_look_001",
+          "titleHtml": "Block Title",
+          "coverTitle": "Page title",
+          "coverSubtitle": "Page title 2",
+          "columsize": "10",
+          "offset": "1",
+          "showTitle": "false",
+          "backgroundColor": "#ffffff",
+          "backgroundOpacity": "1",
+          "backgroundTransparent": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "titleHtml": [],
+          "coverTitle": [],
+          "coverSubtitle": []
+        },
+        "componentChildren": [
+          "92e426c7952a194dd5fb9d1801b83131",
+          "a64ad6c2b15adcd9675d7fd2eb725fbf"
+        ]
+      },
+      "92e426c7952a194dd5fb9d1801b83131": {
+        "id": "92e426c7952a194dd5fb9d1801b83131",
+        "name": "panel",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "8df80f68019d7d2e7ab844b36b9c9380",
+        "properties": {
+          "view": "panel_view_529-002",
+          "look": "panel_view_529-002_look_001",
+          "title": "<h5><span style=\"color:#a269a9;\"><strong>Comprendemos</strong></span></h5>",
+          "title2html": "Panel title 2",
+          "title3html": "Panel title 3",
+          "backgroundImageFooter": "backgroundImage Footer",
+          "borderColor2": "",
+          "borderWidth": "",
+          "backgroundColor": "#654574",
+          "showShadow": "true",
+          "backgroundColorHeader1": "#a269a9",
+          "shortView": "view_529-002",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "title": [],
+          "title2html": [],
+          "title3html": [],
+          "backgroundImageFooter": []
+        },
+        "componentChildren": ["7052231747ac559c907e8a77822cb5a9"]
+      },
+      "7052231747ac559c907e8a77822cb5a9": {
+        "id": "7052231747ac559c907e8a77822cb5a9",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "92e426c7952a194dd5fb9d1801b83131",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "textContent": "<p><span style=\"color:#ffffff;\">\u00bfSon conscientes de todas las maneras en las que pueden ser instrumento de Dios? \u00a1Acepten su invitaci\u00f3n y desc\u00fabranlas!</span></p>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "a64ad6c2b15adcd9675d7fd2eb725fbf": {
+        "id": "a64ad6c2b15adcd9675d7fd2eb725fbf",
+        "name": "accordion",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "8df80f68019d7d2e7ab844b36b9c9380",
+        "properties": {
+          "view": "accordion_view_529-001",
+          "look": "accordion_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "525e673b8fac985c8c59204710861b53",
+          "89f0b9bd0eee8a427f740fb7777f4225",
+          "4a1ab9746bc40b39a06f1b0aadd57605",
+          "f2f4dadf2d7a439574d550375ae8f4f4"
+        ]
+      },
+      "525e673b8fac985c8c59204710861b53": {
+        "id": "525e673b8fac985c8c59204710861b53",
+        "name": "accordionItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "a64ad6c2b15adcd9675d7fd2eb725fbf",
+        "properties": {
+          "view": "accordionItem_view_529-001",
+          "look": "accordionItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"font-family:'neosans';\"><strong><span style=\"color:#a269a9;\">1. Observamos</span></strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["00f3614f475e1fa17c7be354cb6ef0a3"]
+      },
+      "00f3614f475e1fa17c7be354cb6ef0a3": {
+        "id": "00f3614f475e1fa17c7be354cb6ef0a3",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "525e673b8fac985c8c59204710861b53",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["aea2a971ddf39de88ee7454401383576"]
+      },
+      "aea2a971ddf39de88ee7454401383576": {
+        "id": "aea2a971ddf39de88ee7454401383576",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "00f3614f475e1fa17c7be354cb6ef0a3",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "24ca1c7aeb3d2e16d80e4320dc9d1147",
+          "8a194dc496acfc75461a59b3c659926d",
+          "e1533b9a4fcd48c2afe4ed292d1a653c",
+          "5b561490c05be139c5781424900ce746",
+          "17e96c3ff6b34108a4ea453bdf2b1678",
+          "15108fdeea62a9ee5b3e67eb6fc9f039"
+        ]
+      },
+      "24ca1c7aeb3d2e16d80e4320dc9d1147": {
+        "id": "24ca1c7aeb3d2e16d80e4320dc9d1147",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aea2a971ddf39de88ee7454401383576",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": []
+      },
+      "8a194dc496acfc75461a59b3c659926d": {
+        "id": "8a194dc496acfc75461a59b3c659926d",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aea2a971ddf39de88ee7454401383576",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["07afb49f4af1e4562d91fa623da4493a"]
+      },
+      "07afb49f4af1e4562d91fa623da4493a": {
+        "id": "07afb49f4af1e4562d91fa623da4493a",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "8a194dc496acfc75461a59b3c659926d",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff3399;\">Tiempo estimado: 25 minutos.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "e1533b9a4fcd48c2afe4ed292d1a653c": {
+        "id": "e1533b9a4fcd48c2afe4ed292d1a653c",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aea2a971ddf39de88ee7454401383576",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-596631439.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right",
+          "align": "ntx-comp-align-left"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "8157c8f8c18805ccd41180ed21935fa3",
+            "relativePath": "GettyImages-596631439.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582823,
+            "url": "resources/0ef305gettyimages596631439.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "5b561490c05be139c5781424900ce746": {
+        "id": "5b561490c05be139c5781424900ce746",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aea2a971ddf39de88ee7454401383576",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#a269a9",
+          "textContent": "<p><span style=\"color:#a269a9;\"><strong>1.</strong></span>&nbsp;Busquen en sus redes sociales alguna persona, perfil o cuenta que demuestre, seg\u00fan su opini\u00f3n, ser instrumento de Dios.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "17e96c3ff6b34108a4ea453bdf2b1678": {
+        "id": "17e96c3ff6b34108a4ea453bdf2b1678",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aea2a971ddf39de88ee7454401383576",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["06a6be5863b74529afae12e6f3c5838c"]
+      },
+      "06a6be5863b74529afae12e6f3c5838c": {
+        "id": "06a6be5863b74529afae12e6f3c5838c",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "17e96c3ff6b34108a4ea453bdf2b1678",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Si los estudiantes no tuvieran sus celulares a mano, puede proponerles que piensen en alguna persona que conozcan (puede ser alguien famoso o alguien a quien conozcan personalmente, como un familiar, un amigo, un profesor, un vecino, etc.). La idea es que busquen y que seleccionen a una persona que consideren como un muy claro ejemplo de lo que significa ser instrumento de Dios.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "15108fdeea62a9ee5b3e67eb6fc9f039": {
+        "id": "15108fdeea62a9ee5b3e67eb6fc9f039",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aea2a971ddf39de88ee7454401383576",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#a269a9",
+          "textContent": "<p><span style=\"color:#a269a9;\"><strong>2.</strong></span> Muestren el perfil a sus compa\u00f1eros y cu\u00e9ntenles:</p><ul><li>\u00bfPor qu\u00e9 es instrumento de Dios?&nbsp;</li><li>\u00bfC\u00f3mo los inspira a ser instrumento de Dios?</li></ul>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "89f0b9bd0eee8a427f740fb7777f4225": {
+        "id": "89f0b9bd0eee8a427f740fb7777f4225",
+        "name": "accordionItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "a64ad6c2b15adcd9675d7fd2eb725fbf",
+        "properties": {
+          "view": "accordionItem_view_529-001",
+          "look": "accordionItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"font-family:'neosans';\"><strong><span style=\"color:#a269a9;\">2. Consultamos</span></strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": [
+          "5d5854ac20196be2f23b27aaa63381d5",
+          "28d785d4e61c7557412cdb0977e952e7"
+        ]
+      },
+      "5d5854ac20196be2f23b27aaa63381d5": {
+        "id": "5d5854ac20196be2f23b27aaa63381d5",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "89f0b9bd0eee8a427f740fb7777f4225",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["267f6fd4609c9dd898126c9ee24e907e"]
+      },
+      "267f6fd4609c9dd898126c9ee24e907e": {
+        "id": "267f6fd4609c9dd898126c9ee24e907e",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "5d5854ac20196be2f23b27aaa63381d5",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "d372f7ad79581c48787c03a8825c3b7f",
+          "544e889f434252982c738294e06b99a0"
+        ]
+      },
+      "d372f7ad79581c48787c03a8825c3b7f": {
+        "id": "d372f7ad79581c48787c03a8825c3b7f",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "267f6fd4609c9dd898126c9ee24e907e",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#a269a9",
+          "textContent": "<p>Consulten estas fuentes y piensen: \u00bfC\u00f3mo se expresa la invitaci\u00f3n a ser instrumento de Dios en cada una de ellas?</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "544e889f434252982c738294e06b99a0": {
+        "id": "544e889f434252982c738294e06b99a0",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "267f6fd4609c9dd898126c9ee24e907e",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["a5baafe14c1c922d3b998e77532f176e"]
+      },
+      "a5baafe14c1c922d3b998e77532f176e": {
+        "id": "a5baafe14c1c922d3b998e77532f176e",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "544e889f434252982c738294e06b99a0",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Tiempo estimado: 60 minutos.</span></p><p><span style=\"color:#ff0099;\">Luego de las consultas, abra espacio al di\u00e1logo para que los estudiantes compartan sus percepciones y descubran que cada uno puede entender de maneras distintas el sentido de las fuentes.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "28d785d4e61c7557412cdb0977e952e7": {
+        "id": "28d785d4e61c7557412cdb0977e952e7",
+        "name": "tabs",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "89f0b9bd0eee8a427f740fb7777f4225",
+        "properties": {
+          "view": "tabs_view_529-001",
+          "look": "tabs_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "ab92186e4f149eca876efcac1db206cb",
+          "7e4eedaf1a48e1d18f9ee976a67dad9e",
+          "df4f52a9b573b1efd3753b6a0173bafb"
+        ]
+      },
+      "ab92186e4f149eca876efcac1db206cb": {
+        "id": "ab92186e4f149eca876efcac1db206cb",
+        "name": "tabsItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "28d785d4e61c7557412cdb0977e952e7",
+        "properties": {
+          "view": "tabsItem_view_529-001",
+          "look": "tabsItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"color:#ffffff;\"><strong>Fuente 1</strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["87af8ad6771a442b26dfeeac0d55331c"]
+      },
+      "87af8ad6771a442b26dfeeac0d55331c": {
+        "id": "87af8ad6771a442b26dfeeac0d55331c",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "ab92186e4f149eca876efcac1db206cb",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["3e65ce3d08e8c7d8d562cd08822cb506"]
+      },
+      "3e65ce3d08e8c7d8d562cd08822cb506": {
+        "id": "3e65ce3d08e8c7d8d562cd08822cb506",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "87af8ad6771a442b26dfeeac0d55331c",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001",
+          "srcName": "Comprendemos-Consultamos-fuente 1.jpg"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "d1bf916d5fb949c93e4917b72151d717",
+          "73646e481775f1bfcbce7f9283247b67"
+        ]
+      },
+      "d1bf916d5fb949c93e4917b72151d717": {
+        "id": "d1bf916d5fb949c93e4917b72151d717",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "3e65ce3d08e8c7d8d562cd08822cb506",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "Comprendemos-Consultamos-fuente 1.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "https://www.youtube.com/watch?v=9GoSceegUJA&ab_channel=C5N",
+          "iconType": "video",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right",
+          "align": "ntx-comp-align-left"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "1381f854fa826ddbd08df2add15299f4",
+            "relativePath": "Comprendemos-Consultamos-fuente%201.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582813,
+            "url": "resources/6fee33comprendemosconsultamosfuente1.jpg",
+            "width": 1364,
+            "height": 768
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "73646e481775f1bfcbce7f9283247b67": {
+        "id": "73646e481775f1bfcbce7f9283247b67",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "3e65ce3d08e8c7d8d562cd08822cb506",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Conozcan el caso de una joven que termin\u00f3 la universidad y sorprendi\u00f3 a su pap\u00e1. Hagan clic <strong><a class=\"nf-linkword\" href=\"http://www.youtube.com/watch?v=9GoSceegUJA&amp;ab_channel=C5N\" id=\"linkword_29a09df9d68546ce9576a54a3baf9ef6\" rel=\"noopener\" target=\"_blank\" title=\"\">aqu\u00ed</a></strong>.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "7e4eedaf1a48e1d18f9ee976a67dad9e": {
+        "id": "7e4eedaf1a48e1d18f9ee976a67dad9e",
+        "name": "tabsItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "28d785d4e61c7557412cdb0977e952e7",
+        "properties": {
+          "view": "tabsItem_view_529-001",
+          "look": "tabsItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"color:#ffffff;\"><strong>Fuente 2</strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["bba80b5d7f6b57577c8968855feb85b5"]
+      },
+      "bba80b5d7f6b57577c8968855feb85b5": {
+        "id": "bba80b5d7f6b57577c8968855feb85b5",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "7e4eedaf1a48e1d18f9ee976a67dad9e",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["5e8c47c9a44a78ae728b503debfe8845"]
+      },
+      "5e8c47c9a44a78ae728b503debfe8845": {
+        "id": "5e8c47c9a44a78ae728b503debfe8845",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "bba80b5d7f6b57577c8968855feb85b5",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "903d3265f6b35450edd98c1883113708",
+          "370dab2788d087f946fb8770f5da7bdb"
+        ]
+      },
+      "903d3265f6b35450edd98c1883113708": {
+        "id": "903d3265f6b35450edd98c1883113708",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "5e8c47c9a44a78ae728b503debfe8845",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-675547153.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "",
+          "iconType": "video",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "float": "right",
+          "align": "ntx-comp-align-left",
+          "width": "ntx-image-width-50"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "df68a681292e48c5ce60c2a73c480397",
+            "relativePath": "GettyImages-675547153.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582828,
+            "url": "resources/8de42bgettyimages675547153.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "370dab2788d087f946fb8770f5da7bdb": {
+        "id": "370dab2788d087f946fb8770f5da7bdb",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "5e8c47c9a44a78ae728b503debfe8845",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Lean el <strong><a class=\"nf-linkword\" href=\"https://verne.elpais.com/verne/2020/02/18/articulo/1582014549_363507.html\" id=\"linkword_5f43dd79899349e68b0400faab1a544f\" rel=\"noopener\" target=\"_blank\" title=\"\">art\u00edculo</a></strong> \u201cAs\u00ed nace una amistad\u201d, publicado en el diario <em>El Pa\u00eds</em>.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "df4f52a9b573b1efd3753b6a0173bafb": {
+        "id": "df4f52a9b573b1efd3753b6a0173bafb",
+        "name": "tabsItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "28d785d4e61c7557412cdb0977e952e7",
+        "properties": {
+          "view": "tabsItem_view_529-001",
+          "look": "tabsItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"color:#ffffff;\"><strong>Fuente 3</strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["26c0dea0ecb190a3bc2ace715254f11f"]
+      },
+      "26c0dea0ecb190a3bc2ace715254f11f": {
+        "id": "26c0dea0ecb190a3bc2ace715254f11f",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "df4f52a9b573b1efd3753b6a0173bafb",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["15595962bef469491b52c4842216004e"]
+      },
+      "15595962bef469491b52c4842216004e": {
+        "id": "15595962bef469491b52c4842216004e",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "26c0dea0ecb190a3bc2ace715254f11f",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "464f0f283effa4a11c4e376df2c32da1",
+          "d48185a32c81575a2278d972040f7d55"
+        ]
+      },
+      "464f0f283effa4a11c4e376df2c32da1": {
+        "id": "464f0f283effa4a11c4e376df2c32da1",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "15595962bef469491b52c4842216004e",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "Comprendemos-Consultamos-fuente3.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://www.youtube.com/watch?v=e5y7FMCZwKQ",
+          "iconType": "video",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right",
+          "align": "ntx-comp-align-left",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "9f618a8b925717a49fe9f6c8ec4d2fe2",
+            "relativePath": "Comprendemos-Consultamos-fuente3.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582816,
+            "url": "resources/5ee9c3comprendemosconsultamosfuente3.jpg",
+            "width": 1366,
+            "height": 768
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "d48185a32c81575a2278d972040f7d55": {
+        "id": "d48185a32c81575a2278d972040f7d55",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "15595962bef469491b52c4842216004e",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Miren el <strong><a class=\"nf-linkword\" href=\"http://www.youtube.com/watch?v=e5y7FMCZwKQ\" id=\"linkword_25b81c56379e4c4893dcd895185015d3\" rel=\"noopener\" target=\"_blank\" title=\"\">corto</a></strong> <em>Nosotros tenemos el poder de salvar el mundo</em>.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "4a1ab9746bc40b39a06f1b0aadd57605": {
+        "id": "4a1ab9746bc40b39a06f1b0aadd57605",
+        "name": "accordionItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "a64ad6c2b15adcd9675d7fd2eb725fbf",
+        "properties": {
+          "view": "accordionItem_view_529-001",
+          "look": "accordionItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"font-family:'neosans';\"><strong><span style=\"color:#a269a9;\">3. Interiorizamos</span></strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["42e2e3c597e760430370215f5cdf1a2d"]
+      },
+      "42e2e3c597e760430370215f5cdf1a2d": {
+        "id": "42e2e3c597e760430370215f5cdf1a2d",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "4a1ab9746bc40b39a06f1b0aadd57605",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["d828b55dcd0ba2955c8f70a49cee6aa3"]
+      },
+      "d828b55dcd0ba2955c8f70a49cee6aa3": {
+        "id": "d828b55dcd0ba2955c8f70a49cee6aa3",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "42e2e3c597e760430370215f5cdf1a2d",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "683c9269c03c59dfcdd58965c28f4b90",
+          "5357735c37df479577e697bb7a8361f2",
+          "af5388b1a428513028b26d51036afa4e",
+          "c7bbc54e90114b78871ccd550916874f"
+        ]
+      },
+      "683c9269c03c59dfcdd58965c28f4b90": {
+        "id": "683c9269c03c59dfcdd58965c28f4b90",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "d828b55dcd0ba2955c8f70a49cee6aa3",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["51d1c37aea9f542aca0bc2a87b471252"]
+      },
+      "51d1c37aea9f542aca0bc2a87b471252": {
+        "id": "51d1c37aea9f542aca0bc2a87b471252",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "683c9269c03c59dfcdd58965c28f4b90",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff3399;\">Tiempo estimado: 20 minutos.</span></p><p><span style=\"color:#ff3399;\">La actividad propuesta en esta sesi\u00f3n guarda relaci\u00f3n con \u201cDamos un nuevo sentido\u201d. Si lo considera conveniente, puede desarrollar ambas sesiones en una misma jornada.</span></p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "5357735c37df479577e697bb7a8361f2": {
+        "id": "5357735c37df479577e697bb7a8361f2",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "d828b55dcd0ba2955c8f70a49cee6aa3",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-1287615531.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "6baf39d0febaf812fb1d98ee24b90466",
+            "relativePath": "GettyImages-1287615531.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582837,
+            "url": "resources/410ebcgettyimages1287615531.jpg",
+            "width": 1100,
+            "height": 734
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "af5388b1a428513028b26d51036afa4e": {
+        "id": "af5388b1a428513028b26d51036afa4e",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "d828b55dcd0ba2955c8f70a49cee6aa3",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Respondan en una hoja: \u00bfC\u00f3mo me invita Dios a ser su instrumento en cada uno de estos contextos?</p><ul><li>En mi familia.</li><li>Con mis amigos.</li><li>En la casa com\u00fan.</li><li>En mi pa\u00eds.</li></ul>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "c7bbc54e90114b78871ccd550916874f": {
+        "id": "c7bbc54e90114b78871ccd550916874f",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "d828b55dcd0ba2955c8f70a49cee6aa3",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["12b8504761e161d540e1f2b6931972ca"]
+      },
+      "12b8504761e161d540e1f2b6931972ca": {
+        "id": "12b8504761e161d540e1f2b6931972ca",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "c7bbc54e90114b78871ccd550916874f",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Explique a los estudiantes que la actividad propuesta es personal. Mot\u00edvelos para que encuentren ejemplos lo m\u00e1s concretos posible, como compartir tiempo de calidad con la familia, animando el di\u00e1logo durante la cena, en lugar de simplemente compartir.</span></p><p><span style=\"color:#ff0099;\">Cuando finalicen, pida los estudiantes que reserven sus respuestas para emplearlas en la pr\u00f3xima sesi\u00f3n.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "f2f4dadf2d7a439574d550375ae8f4f4": {
+        "id": "f2f4dadf2d7a439574d550375ae8f4f4",
+        "name": "accordionItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "a64ad6c2b15adcd9675d7fd2eb725fbf",
+        "properties": {
+          "view": "accordionItem_view_529-001",
+          "look": "accordionItem_view_529-001_look_001",
+          "titleHtml": "<strong><span style=\"font-family:'neosans';\"><span style=\"color:#a269a9;\">4. Damos un nuevo sentido</span></span></strong>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["0ec515987aded21b3ad1f4f7aafd3dc7"]
+      },
+      "0ec515987aded21b3ad1f4f7aafd3dc7": {
+        "id": "0ec515987aded21b3ad1f4f7aafd3dc7",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f2f4dadf2d7a439574d550375ae8f4f4",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["66030a954329e1f44d59d705e9764b7a"]
+      },
+      "66030a954329e1f44d59d705e9764b7a": {
+        "id": "66030a954329e1f44d59d705e9764b7a",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "0ec515987aded21b3ad1f4f7aafd3dc7",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "9a7e70cf681ce138154bdb745c530dbb",
+          "79f93b5f277d106c12f92bc14f2f8569",
+          "1fa902344885882b4d228db7ef2526d7",
+          "db38c67d8b94db642dfabedc1b246669"
+        ]
+      },
+      "9a7e70cf681ce138154bdb745c530dbb": {
+        "id": "9a7e70cf681ce138154bdb745c530dbb",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "66030a954329e1f44d59d705e9764b7a",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-917328398.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "float": "right",
+          "width": "ntx-image-width-50",
+          "align": "ntx-comp-align-left"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "1491cc4f2d102f82f93e9a6e49ae430c",
+            "relativePath": "GettyImages-917328398.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582831,
+            "url": "resources/444e6fgettyimages917328398.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "79f93b5f277d106c12f92bc14f2f8569": {
+        "id": "79f93b5f277d106c12f92bc14f2f8569",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "66030a954329e1f44d59d705e9764b7a",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["b46853b55890d1c1043a9c8f2526722e"]
+      },
+      "b46853b55890d1c1043a9c8f2526722e": {
+        "id": "b46853b55890d1c1043a9c8f2526722e",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "79f93b5f277d106c12f92bc14f2f8569",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Tiempo estimado: 40 minutos.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "1fa902344885882b4d228db7ef2526d7": {
+        "id": "1fa902344885882b4d228db7ef2526d7",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "66030a954329e1f44d59d705e9764b7a",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#a269a9;\"><strong>1.&nbsp;</strong></span>Contin\u00faen con la producci\u00f3n de sus pasaportes. Elaboren cuatro p\u00e1ginas nuevas, una por cada uno de los contextos en los que pensaron en la sesi\u00f3n anterior. P\u00f3ngale un t\u00edtulo a cada p\u00e1gina. Por ejemplo: <em>Ser instrumento de Dios en mi familia</em>.</p><p><span style=\"color:#a269a9;\"><strong>2.&nbsp;</strong></span>En cada hoja, representen, de manera creativa, la invitaci\u00f3n que Dios les hace.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "db38c67d8b94db642dfabedc1b246669": {
+        "id": "db38c67d8b94db642dfabedc1b246669",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "66030a954329e1f44d59d705e9764b7a",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["85c1f9b07d173f1f1cfa3c7a422c7de3"]
+      },
+      "85c1f9b07d173f1f1cfa3c7a422c7de3": {
+        "id": "85c1f9b07d173f1f1cfa3c7a422c7de3",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "db38c67d8b94db642dfabedc1b246669",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Aclare a los estudiantes que para cada representaci\u00f3n pueden elegir cualquier forma creativa: un dibujo, un collage, una colecci\u00f3n de fotograf\u00edas, un poema, una canci\u00f3n, una frase, etc.&nbsp;</span></p><p><span style=\"color:#ff0099;\">Ponga a disposici\u00f3n de los estudiantes diversos materiales para quienes los requieran.&nbsp;</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "04c5cc7796b10f25f35ec6051ae87273": {
+        "id": "04c5cc7796b10f25f35ec6051ae87273",
+        "name": "pageContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "940b26e5d197753391a93691d0045721",
+        "properties": {
+          "referencedView": "interface_view_529-001",
+          "view": "pageContent_view_529-003",
+          "look": "pageContent_view_529-002_look_001",
+          "index": "?",
+          "titleHtml": "Page Title",
+          "title2Html": "Page Title 2",
+          "title3Html": "Page Title 3",
+          "primaryColor": "#aed231",
+          "secondaryColor": "#66c1be",
+          "title": "Discernimos",
+          "backgroundMode": "fixed",
+          "backgroundImage": "Cabezal_Aprender para la vida.png",
+          "backgroundColor": ""
+        },
+        "resourceProperties": {
+          "backgroundImage": {
+            "id": "2546f36a7ff7ba01f249928d8c2eeb39",
+            "relativePath": "Cabezal_Aprender%20para%20la%20vida.png",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582335,
+            "url": "resources/dc7963cabezal_aprenderparalavida.png",
+            "width": 4167,
+            "height": 1454
+          }
+        },
+        "htmlResourceProperties": {
+          "index": [],
+          "titleHtml": [],
+          "title2Html": [],
+          "title3Html": []
+        },
+        "componentChildren": [
+          "9672c9c710de449ae0c192762d34cd1f",
+          "1c240490f42cee39d51cd33b42ef3e55"
+        ]
+      },
+      "9672c9c710de449ae0c192762d34cd1f": {
+        "id": "9672c9c710de449ae0c192762d34cd1f",
+        "name": "footerPage",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "04c5cc7796b10f25f35ec6051ae87273",
+        "properties": {
+          "view": "footerPage_view_529-001",
+          "look": "footerPage_view_529-001_look_001",
+          "titleHtml": "Footer title"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["015cc6217388d5319823258b135d3969"]
+      },
+      "015cc6217388d5319823258b135d3969": {
+        "id": "015cc6217388d5319823258b135d3969",
+        "name": "footerPageCommon",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "9672c9c710de449ae0c192762d34cd1f",
+        "properties": { "view": "footerPageCommon_view_529-001", "look": "" },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": []
+      },
+      "1c240490f42cee39d51cd33b42ef3e55": {
+        "id": "1c240490f42cee39d51cd33b42ef3e55",
+        "name": "blocks",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "04c5cc7796b10f25f35ec6051ae87273",
+        "properties": {
+          "view": "blocks_view_529-002",
+          "look": "blocks_view_529-002_look_001",
+          "titleHtml": "Block Title",
+          "coverTitle": "Page title",
+          "coverSubtitle": "Page title 2",
+          "columsize": "10",
+          "offset": "1",
+          "showTitle": "false",
+          "backgroundColor": "#ffffff",
+          "backgroundOpacity": "1",
+          "backgroundTransparent": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "titleHtml": [],
+          "coverTitle": [],
+          "coverSubtitle": []
+        },
+        "componentChildren": [
+          "93a040f6f2452a37d837bf74b7c6ec20",
+          "ed95ab978a689e838b0c6a55209c8f03"
+        ]
+      },
+      "93a040f6f2452a37d837bf74b7c6ec20": {
+        "id": "93a040f6f2452a37d837bf74b7c6ec20",
+        "name": "panel",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "1c240490f42cee39d51cd33b42ef3e55",
+        "properties": {
+          "view": "panel_view_529-002",
+          "look": "panel_view_529-001_look_001",
+          "title": "<h5><span style=\"color:#aed231;\"><strong>Discernimos</strong></span></h5>",
+          "title2html": "Panel title 2",
+          "title3html": "Panel title 3",
+          "backgroundImageFooter": "backgroundImage Footer",
+          "borderColor2": "",
+          "borderWidth": "",
+          "backgroundColor": "#245f57",
+          "showShadow": "true",
+          "backgroundColorHeader1": "#aed231"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "title": [],
+          "title2html": [],
+          "title3html": [],
+          "backgroundImageFooter": []
+        },
+        "componentChildren": ["85e3b3011626a9663c0ed7f35a33aba8"]
+      },
+      "85e3b3011626a9663c0ed7f35a33aba8": {
+        "id": "85e3b3011626a9663c0ed7f35a33aba8",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "93a040f6f2452a37d837bf74b7c6ec20",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "textContent": "<p><span style=\"color:#ffffff;\">Nuestro Se\u00f1or los env\u00eda a que sean instrumento de Dios para quienes los rodean, \u00a1especialmente en su pa\u00eds! Adem\u00e1s, los invita a reconocer c\u00f3mo los dem\u00e1s son Su instrumento en la vida de ustedes.</span></p>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "ed95ab978a689e838b0c6a55209c8f03": {
+        "id": "ed95ab978a689e838b0c6a55209c8f03",
+        "name": "tabs",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "1c240490f42cee39d51cd33b42ef3e55",
+        "properties": {
+          "view": "tabs_view_529-001",
+          "look": "tabs_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "4da6c69b741557f22c8c7dda20294009",
+          "951ce4ee80e45a7263865aa60119c357",
+          "abbc5b3bc09ebde785ed08d2451cc49d"
+        ]
+      },
+      "4da6c69b741557f22c8c7dda20294009": {
+        "id": "4da6c69b741557f22c8c7dda20294009",
+        "name": "tabsItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "ed95ab978a689e838b0c6a55209c8f03",
+        "properties": {
+          "view": "tabsItem_view_529-001",
+          "look": "tabsItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"color:#ffffff;\"><strong>Palabra de Dios</strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["726d76725df9db4e0d547d9431c26d5b"]
+      },
+      "726d76725df9db4e0d547d9431c26d5b": {
+        "id": "726d76725df9db4e0d547d9431c26d5b",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "4da6c69b741557f22c8c7dda20294009",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["81f2ea52df85e0137ad38af6c7ad39d7"]
+      },
+      "81f2ea52df85e0137ad38af6c7ad39d7": {
+        "id": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "726d76725df9db4e0d547d9431c26d5b",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "5a1dba5714664d5c8dfa12443f5fe1f5",
+          "f8c122c1deae283cd25658714afc5f09",
+          "d21da5b1b5527fe8f505aaeaafa7338c",
+          "7f3c013b0cba7a2202220008d0fa87cd",
+          "ae9b1254066caca33798bd64332fcb94",
+          "82e65029bc5e4d708402bf888df6c829",
+          "afb9aae6eaab4e4cb3e3c025299f6bb0",
+          "312753dc56714aa0a010298f8c7af6a7",
+          "049d0e1c5db94ed7ab377e1d88235f06",
+          "6717ff952c5c4c2fbea283ab571330db"
+        ]
+      },
+      "5a1dba5714664d5c8dfa12443f5fe1f5": {
+        "id": "5a1dba5714664d5c8dfa12443f5fe1f5",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-79860383.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right",
+          "align": "ntx-comp-align-left",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "7b326148f0d472715b8f3b25ee86dacf",
+            "relativePath": "GettyImages-79860383.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582818,
+            "url": "resources/795995gettyimages79860383.jpg",
+            "width": 1100,
+            "height": 753
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "f8c122c1deae283cd25658714afc5f09": {
+        "id": "f8c122c1deae283cd25658714afc5f09",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["5025a9cb09a7658aa75ec88b6da2223f"]
+      },
+      "5025a9cb09a7658aa75ec88b6da2223f": {
+        "id": "5025a9cb09a7658aa75ec88b6da2223f",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f8c122c1deae283cd25658714afc5f09",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Tiempo estimado: 40 minutos.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "d21da5b1b5527fe8f505aaeaafa7338c": {
+        "id": "d21da5b1b5527fe8f505aaeaafa7338c",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#245f57",
+          "textContent": "<p><strong style=\"\"><font color=\"#245f57\">1.</font><font color=\"#4ee58a\">&nbsp;</font></strong>Lean esta <strong><a class=\"nf-linkpopup fancyboxText\" data-ntx-link-popup-mark=\"\" href=\"#2f11bd810903bdf2f5c96a746ce895b5\" id=\"popuplink_b31576b5ba4d46cbbfcd3bf6ba83ca68\" title=\"cita b\u00edblica\">cita b\u00edblica</a></strong> del Evangelio de Mateo.</p><p><strong><font color=\"#245f57\">2.</font></strong>&nbsp;Escriban en una hoja: \u00bfA qu\u00e9 los invita Jes\u00fas a trav\u00e9s de este texto? Compartan su respuesta con sus compa\u00f1eros.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "7f3c013b0cba7a2202220008d0fa87cd": {
+        "id": "7f3c013b0cba7a2202220008d0fa87cd",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["89c168c1767d0a3633729913512eed3f"]
+      },
+      "89c168c1767d0a3633729913512eed3f": {
+        "id": "89c168c1767d0a3633729913512eed3f",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "7f3c013b0cba7a2202220008d0fa87cd",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Explique a los estudiantes que la respuesta a la pregunta es individual. Luego, aquellos que lo deseen, podr\u00e1n compartir la invitaci\u00f3n que consideran que Jes\u00fas les hace a trav\u00e9s del texto.&nbsp;</p><p>Retome algunas de las intervenciones de los estudiantes para poner \u00e9nfasis en las siguientes ideas:&nbsp;</p><ul><li>Jes\u00fas nos hace una invitaci\u00f3n a todos: amar a los dem\u00e1s, porque de esa manera \u00c9l se refleja a trav\u00e9s de nosotros.</li><li>No es una tarea f\u00e1cil, y habr\u00e1 equivocaciones, pero consuela saber que \u00c9l nos acompa\u00f1ar\u00e1 todo el tiempo durante el proceso.</li></ul>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "ae9b1254066caca33798bd64332fcb94": {
+        "id": "ae9b1254066caca33798bd64332fcb94",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><strong><font color=\"#245f57\">3.</font></strong> Este es el \u00faltimo espacio formal de \u201cEncuentro con Jes\u00fas\u201d dentro de este itinerario. \u00bfRecuerdan alg\u00fan otro? \u00bfHay alguna actividad en particular de estos espacios que haya quedado en su memoria?</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "82e65029bc5e4d708402bf888df6c829": {
+        "id": "82e65029bc5e4d708402bf888df6c829",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["399155a5109e42cfa9ccfbabd3b8c1b2"]
+      },
+      "399155a5109e42cfa9ccfbabd3b8c1b2": {
+        "id": "399155a5109e42cfa9ccfbabd3b8c1b2",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "82e65029bc5e4d708402bf888df6c829",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Invite a los estudiantes a compartir lo que recuerden: alguna actividad o din\u00e1mica de cualquier espacio de \u201cEncuentro con Jes\u00fas\u201d que hayan realizado en el transcurso de todo el itinerario. Haga especial \u00e9nfasis en las oraciones, dado que hubo una gran variedad de maneras de realizarlas. Recuerde a los estudiantes que, de ahora en adelante, siempre tengan presente que existen diversas maneras de orar y encontrarse con Dios: pueden hacerlo por medio de la lectura de la Palabra y encontrar el llamado de Dios en ella; tambi\u00e9n a trav\u00e9s de la escritura libre en un diario espiritual; cantando o escuchando m\u00fasica que los conecte con la presencia de Dios; inclusive contemplando un paisaje o alg\u00fan lugar donde reconozcan que \u00c9l est\u00e1. Tambi\u00e9n es v\u00e1lido hacerlo por medio de oraciones que ya existen, como el Santo Rosario u otras m\u00e1s cortas (como la oraci\u00f3n por la paz de San Francisco de As\u00eds).&nbsp;</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "afb9aae6eaab4e4cb3e3c025299f6bb0": {
+        "id": "afb9aae6eaab4e4cb3e3c025299f6bb0",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><strong><font color=\"#245f57\">4.&nbsp;</font></strong>Identifiquen y escriban las maneras de orar que m\u00e1s les gustan para encontrarse con Dios. Comenten con el resto de sus compa\u00f1eros.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "312753dc56714aa0a010298f8c7af6a7": {
+        "id": "312753dc56714aa0a010298f8c7af6a7",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["c315f31109d34fe29060cd939d4f77db"]
+      },
+      "c315f31109d34fe29060cd939d4f77db": {
+        "id": "c315f31109d34fe29060cd939d4f77db",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "312753dc56714aa0a010298f8c7af6a7",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Puede pedir a los estudiantes que compartan cu\u00e1les son las maneras que les resultan m\u00e1s sencillas para acudir al encuentro de Nuestro Se\u00f1or, con el fin de que los dem\u00e1s alumnos tambi\u00e9n tomen conciencia de las formas de orar que m\u00e1s los favorecen. Es clave resaltar que, as\u00ed como la relaci\u00f3n de cada uno con Dios es personal y \u00fanica, tambi\u00e9n lo es la manera de comunicarse con \u00c9l, es decir, de orar. Asimismo, recu\u00e9rdeles que no solo hay diversos m\u00e9todos, sino que, al hablar con Dios, es v\u00e1lido pedirle, agradecerle, ofrecerle o entregarle algo, pedir su intercesi\u00f3n (o la de la Virgen Mar\u00eda o la de un santo), pedirle perd\u00f3n, o, simplemente, disfrutar de su presencia.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "049d0e1c5db94ed7ab377e1d88235f06": {
+        "id": "049d0e1c5db94ed7ab377e1d88235f06",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><strong><font color=\"#245f57\">5.&nbsp;</font></strong>Elijan una forma de orar y t\u00f3mense unos minutos para darle gracias a Dios por el camino recorrido durante este proceso.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "6717ff952c5c4c2fbea283ab571330db": {
+        "id": "6717ff952c5c4c2fbea283ab571330db",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "81f2ea52df85e0137ad38af6c7ad39d7",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["06db3b5c5b0644f2b644d806fc1956d7"]
+      },
+      "06db3b5c5b0644f2b644d806fc1956d7": {
+        "id": "06db3b5c5b0644f2b644d806fc1956d7",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "6717ff952c5c4c2fbea283ab571330db",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Se sugiere acompa\u00f1ar este momento de oraci\u00f3n con m\u00fasica instrumental de fondo. Haga clic<span style=\"color:#ff0099;\"> </span><strong><a class=\"nf-linkword\" href=\"http://www.youtube.com/watch?v=6bBQ9pHtG8o\" id=\"linkword_bbd6f06776f94d63b384500f3eaf21a7\" rel=\"noopener\" target=\"_blank\" title=\"\"><span style=\"color:#ff0099;\">aqu\u00ed</span></a></strong><span style=\"color:#ff0099;\">.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "951ce4ee80e45a7263865aa60119c357": {
+        "id": "951ce4ee80e45a7263865aa60119c357",
+        "name": "tabsItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "ed95ab978a689e838b0c6a55209c8f03",
+        "properties": {
+          "view": "tabsItem_view_529-001",
+          "look": "tabsItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"color:#ffffff;\"><strong>Cuaderno de itinerario</strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["2e1238f6f69a3b3de24707eb344f08aa"]
+      },
+      "2e1238f6f69a3b3de24707eb344f08aa": {
+        "id": "2e1238f6f69a3b3de24707eb344f08aa",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "951ce4ee80e45a7263865aa60119c357",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["488b638b3a1c22768e94cc894660297a"]
+      },
+      "488b638b3a1c22768e94cc894660297a": {
+        "id": "488b638b3a1c22768e94cc894660297a",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "2e1238f6f69a3b3de24707eb344f08aa",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "747224432b43ff1446ff925f56faaa4f",
+          "8482c37fd9454776b0a43422dd024584",
+          "6746db976c3e301f67b4e66273497365",
+          "5a9560b889ffad4700aa37fcf228e74c",
+          "fcca7f2bdd34ff8f97ffef5a3930bc46",
+          "5154d624d1719ebbe3769fec90117476",
+          "7d1342c12f2e3eb6e1cf51fbbf5d94ec"
+        ]
+      },
+      "747224432b43ff1446ff925f56faaa4f": {
+        "id": "747224432b43ff1446ff925f56faaa4f",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-1329013291.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "309fe107acddfc31f09630a6cce8ac84",
+            "relativePath": "GettyImages-1329013291.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582839,
+            "url": "resources/5d1ac5gettyimages1329013291.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "8482c37fd9454776b0a43422dd024584": {
+        "id": "8482c37fd9454776b0a43422dd024584",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["6143e9e788c5453a882b616a23dd9126"]
+      },
+      "6143e9e788c5453a882b616a23dd9126": {
+        "id": "6143e9e788c5453a882b616a23dd9126",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "8482c37fd9454776b0a43422dd024584",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Tiempo estimado: 45 minutos.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "6746db976c3e301f67b4e66273497365": {
+        "id": "6746db976c3e301f67b4e66273497365",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#245f57",
+          "textContent": "<p><span style=\"color:#245f57;\"><strong>1.&nbsp;</strong></span>Completen la \u00faltima p\u00e1gina de sus pasaportes. Escriban en ella diversas maneras de ser instrumento de Dios a trav\u00e9s de la carrera profesional o el camino que hayan elegido para su vida cuando terminen el colegio. Pueden tomar como referencia la p\u00e1gina en la que identificaron c\u00f3mo ser instrumento de Dios en su pa\u00eds, en la sesi\u00f3n \u201cDamos un nuevo sentido\u201d.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "5a9560b889ffad4700aa37fcf228e74c": {
+        "id": "5a9560b889ffad4700aa37fcf228e74c",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["b48d5f74f60dc11c942caf4786b452a6"]
+      },
+      "b48d5f74f60dc11c942caf4786b452a6": {
+        "id": "b48d5f74f60dc11c942caf4786b452a6",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "5a9560b889ffad4700aa37fcf228e74c",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Oriente a los estudiantes para que propongan maneras concretas de ser instrumentos de Dios, no solo \u201csirviendo a los dem\u00e1s a trav\u00e9s de mi profesi\u00f3n\u201d, o \u201cayudando a quienes lo necesiten\u201d. Si lo considera necesario, puede brindarles algunos ejemplos como estos: si lo que quieren es estudiar y trabajar ejerciendo una profesi\u00f3n, podr\u00edan donar mensualmente un monto dinero a los menos favorecidos; si desean trabajar por el bienestar de su pa\u00eds, podr\u00edan asistir a voluntariados para colaborar con causas espec\u00edficas.</p><p>Cualesquiera que sean las propuestas de los estudiantes, resultar\u00e1 clave comentarles que lo m\u00e1s importante es prepararse y ejercer su actividad teniendo en cuenta siempre el servicio hacia los dem\u00e1s, siguiendo el modelo de Jes\u00fas. De la mano de este servicio, ir\u00e1 la \u00e9tica profesional. Tendr\u00e1n en cuenta las necesidades de los dem\u00e1s y no \u00fanicamente las propias. En este sentido, el \u00e9xito no se medir\u00e1 por la cantidad de dinero acumulado, sino por el amor entregado, as\u00ed como lo hizo Jes\u00fas.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "fcca7f2bdd34ff8f97ffef5a3930bc46": {
+        "id": "fcca7f2bdd34ff8f97ffef5a3930bc46",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#245f57",
+          "textContent": "<p><span style=\"color:#245f57;\"><strong>2.&nbsp;</strong></span>Ahora que terminaron su pasaporte, recorran cada una de sus p\u00e1ginas con detenimiento y contemplaci\u00f3n, y recuerden con cari\u00f1o el camino recorrido durante este a\u00f1o.&nbsp;</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "5154d624d1719ebbe3769fec90117476": {
+        "id": "5154d624d1719ebbe3769fec90117476",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["b67493c7b74ed92aa2d9acd0bc1bd915"]
+      },
+      "b67493c7b74ed92aa2d9acd0bc1bd915": {
+        "id": "b67493c7b74ed92aa2d9acd0bc1bd915",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "5154d624d1719ebbe3769fec90117476",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Puede acompa\u00f1ar este momento con<strong><span style=\"color:#ff0099;\"> </span><a class=\"nf-linkword\" href=\"https://www.youtube.com/watch?v=_qN-JOCj2fw\" id=\"linkword_0f290089f79e4865ba63f8235ea41c3d\" rel=\"noopener\" target=\"_blank\" title=\"\"><span style=\"color:#ff0099;\">m\u00fasica</span></a><span style=\"color:#ff0099;\">&nbsp;</span></strong>instrumental de fondo.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "7d1342c12f2e3eb6e1cf51fbbf5d94ec": {
+        "id": "7d1342c12f2e3eb6e1cf51fbbf5d94ec",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "488b638b3a1c22768e94cc894660297a",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#245f57;\"><strong>3.&nbsp;</strong></span>Elijan la p\u00e1gina que m\u00e1s les llam\u00f3 la atenci\u00f3n o les gust\u00f3 de su pasaporte y comp\u00e1rtanla con sus compa\u00f1eros.&nbsp;</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "abbc5b3bc09ebde785ed08d2451cc49d": {
+        "id": "abbc5b3bc09ebde785ed08d2451cc49d",
+        "name": "tabsItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "ed95ab978a689e838b0c6a55209c8f03",
+        "properties": {
+          "view": "tabsItem_view_529-001",
+          "look": "tabsItem_view_529-001_look_001",
+          "titleHtml": "<span style=\"color:#ffffff;\"><strong>Cultura del encuentro</strong></span>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": [
+          "35041c97e865d454928d7bfdd21d64a5",
+          "9844849405a7fface2ed22113c28df39",
+          "45e964ba2e015a5a86a6b889d2c62651",
+          "fd4bb8fb86437b20b03956c739582bbe",
+          "bf2bb0fbafffea04496cacaa65bdf190"
+        ]
+      },
+      "35041c97e865d454928d7bfdd21d64a5": {
+        "id": "35041c97e865d454928d7bfdd21d64a5",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "abbc5b3bc09ebde785ed08d2451cc49d",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-1010286980.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "iconRessourcesMenu": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001",
+          "width": "ntx-image-width-50",
+          "float": "right"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "b7121b21b59c5553d28ae7b4f30cdcfd",
+            "relativePath": "GettyImages-1010286980.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582833,
+            "url": "resources/83edbegettyimages1010286980.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "9844849405a7fface2ed22113c28df39": {
+        "id": "9844849405a7fface2ed22113c28df39",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "abbc5b3bc09ebde785ed08d2451cc49d",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "#4ee58a",
+          "textContent": "<p><span style=\"color:#245f57;\"><strong>1.&nbsp;</strong></span>\u00a1Prep\u00e1rense para darle color a su vida y a la de los dem\u00e1s!</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "45e964ba2e015a5a86a6b889d2c62651": {
+        "id": "45e964ba2e015a5a86a6b889d2c62651",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "abbc5b3bc09ebde785ed08d2451cc49d",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["adf0919ecc79481e5384c230993442ca"]
+      },
+      "adf0919ecc79481e5384c230993442ca": {
+        "id": "adf0919ecc79481e5384c230993442ca",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "45e964ba2e015a5a86a6b889d2c62651",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Tiempo estimado: 45 minutos.</p><p>En esta sesi\u00f3n utilizar\u00e1 pintura para maquillaje art\u00edstico de tres de los colores presentes en la bandera y el escudo de su pa\u00eds. Cada color ser\u00e1 utilizado para una instrucci\u00f3n diferente. Aseg\u00farese de indicar adecuadamente a los estudiantes qu\u00e9 significa cada color. Inv\u00edtelos a disfrutar de la actividad con una disposici\u00f3n de solemne motivaci\u00f3n. Ambiente con m\u00fasica instrumental alegre, como la que encuentra haciendo clic <strong><a class=\"nf-linkword\" href=\"https://www.youtube.com/watch?v=Tmd_uPFwK5g&amp;t=213s\" id=\"linkword_96904f73ac7a47d1913a2dc32d0370b0\" rel=\"noopener\" target=\"_blank\" title=\"\"><span style=\"color:#ff0099;\">aqu\u00ed</span></a></strong><span style=\"color:#ff0099;\">.&nbsp;</span></p><p><span style=\"color:#ff0099;\">Se sugiere que gu\u00ede la actividad leyendo en voz alta cada una de las consignas. Aseg\u00farese de que todos los alumnos tengan, por lo menos, una marca en su cara. Para ello, en las consignas 2 y 3 puede proponerles como desaf\u00edo que busquen compa\u00f1eros que no tengan marcas.</span></p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "fd4bb8fb86437b20b03956c739582bbe": {
+        "id": "fd4bb8fb86437b20b03956c739582bbe",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "abbc5b3bc09ebde785ed08d2451cc49d",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p style=\"margin-left: 40px;\"><span style=\"color:#aed231;\"><strong>a.</strong> </span>Tomen un poco del primer color en su dedo y ac\u00e9rquense a cinco compa\u00f1eros que consideran instrumentos de Dios en la vida de ustedes. Marquen un punto de ese color en la cara de cada uno de ellos. Al hacerlo, d\u00edganles por qu\u00e9 ven el amor de Dios a trav\u00e9s de ellos.</p><p style=\"margin-left: 40px;\"><span style=\"color:#aed231;\"><strong>b.</strong></span> Tomen un poco del segundo color y marquen un punto en la cara de cinco compa\u00f1eros que ustedes consideran que son instrumentos de Dios para el pa\u00eds. Cu\u00e9ntenles el porqu\u00e9 de su decisi\u00f3n.</p><p style=\"margin-left: 40px;\"><span style=\"color:#aed231;\"><strong>c.</strong></span> Por \u00faltimo, tomen el tercer color y marquen un punto en la cara de cinco compa\u00f1eros que reconozcan como instrumentos de Dios para sus familias. Com\u00e9ntenles porqu\u00e9 los consideran as\u00ed.</p><p><span style=\"color:#245f57;\"><strong>2.&nbsp;</strong></span>Conversen entre todos:&nbsp;</p><ul><li>\u00bfQu\u00e9 les llam\u00f3 la atenci\u00f3n de esta actividad?&nbsp;</li><li>\u00bfCu\u00e1l de los reconocimientos que recibieron consideran m\u00e1s significativo? \u00bfPor qu\u00e9?&nbsp;</li><li>\u00bfCu\u00e1l de todos los reconocimientos que hicieron a sus compa\u00f1eros les gust\u00f3 m\u00e1s? \u00bfPor qu\u00e9?</li></ul>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "bf2bb0fbafffea04496cacaa65bdf190": {
+        "id": "bf2bb0fbafffea04496cacaa65bdf190",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "abbc5b3bc09ebde785ed08d2451cc49d",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": "",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["a40efe096035fe48e7cefe7bf3fcebe1"]
+      },
+      "a40efe096035fe48e7cefe7bf3fcebe1": {
+        "id": "a40efe096035fe48e7cefe7bf3fcebe1",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "bf2bb0fbafffea04496cacaa65bdf190",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p>Haga un cierre en el que tenga en cuenta las opiniones de los estudiantes. Ponga \u00e9nfasis en la importancia de reconocer cu\u00e1ndo una persona es instrumento de Dios, para que los alumnos tambi\u00e9n puedan ser conscientes de cu\u00e1ndo se es instrumento de Dios para otros.</p>",
+          "omitFocus": "false",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "fd0a6d810db80fa0b7d0552311dfeab4": {
+        "id": "fd0a6d810db80fa0b7d0552311dfeab4",
+        "name": "pageContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "940b26e5d197753391a93691d0045721",
+        "properties": {
+          "referencedView": "interface_view_529-001",
+          "view": "pageContent_view_529-003",
+          "look": "pageContent_view_529-002_look_001",
+          "index": "?",
+          "titleHtml": "Page Title",
+          "title2Html": "Page Title 2",
+          "title3Html": "Page Title 3",
+          "primaryColor": "#b6076e",
+          "secondaryColor": "#66c1be",
+          "title": "\u00a1Manos a la obra!",
+          "backgroundMode": "fixed",
+          "backgroundImage": "Cabezal_Aprender para la vida.png",
+          "backgroundColor": ""
+        },
+        "resourceProperties": {
+          "backgroundImage": {
+            "id": "2546f36a7ff7ba01f249928d8c2eeb39",
+            "relativePath": "Cabezal_Aprender%20para%20la%20vida.png",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582335,
+            "url": "resources/dc7963cabezal_aprenderparalavida.png",
+            "width": 4167,
+            "height": 1454
+          }
+        },
+        "htmlResourceProperties": {
+          "index": [],
+          "titleHtml": [],
+          "title2Html": [],
+          "title3Html": []
+        },
+        "componentChildren": [
+          "e80b5538ec1337225c76fbfa57d4b7cb",
+          "05e2b8bcc47f97fe0bf16012107bc90e"
+        ]
+      },
+      "e80b5538ec1337225c76fbfa57d4b7cb": {
+        "id": "e80b5538ec1337225c76fbfa57d4b7cb",
+        "name": "footerPage",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "fd0a6d810db80fa0b7d0552311dfeab4",
+        "properties": {
+          "view": "footerPage_view_529-001",
+          "look": "footerPage_view_529-001_look_001",
+          "titleHtml": "Footer title"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": ["68d4aa84d2907dc3766e6d0e09d337b0"]
+      },
+      "68d4aa84d2907dc3766e6d0e09d337b0": {
+        "id": "68d4aa84d2907dc3766e6d0e09d337b0",
+        "name": "footerPageCommon",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e80b5538ec1337225c76fbfa57d4b7cb",
+        "properties": { "view": "footerPageCommon_view_529-001", "look": "" },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": []
+      },
+      "05e2b8bcc47f97fe0bf16012107bc90e": {
+        "id": "05e2b8bcc47f97fe0bf16012107bc90e",
+        "name": "blocks",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "fd0a6d810db80fa0b7d0552311dfeab4",
+        "properties": {
+          "view": "blocks_view_529-002",
+          "look": "blocks_view_529-002_look_001",
+          "titleHtml": "Block Title",
+          "coverTitle": "Page title",
+          "coverSubtitle": "Page title 2",
+          "columsize": "10",
+          "offset": "1",
+          "showTitle": "false",
+          "backgroundColor": "#ffffff",
+          "backgroundOpacity": "1",
+          "backgroundTransparent": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "titleHtml": [],
+          "coverTitle": [],
+          "coverSubtitle": []
+        },
+        "componentChildren": [
+          "379c15bb75695dab99b992c5bcd33f30",
+          "aab8d59e1e95c11836437b4f0794041b"
+        ]
+      },
+      "379c15bb75695dab99b992c5bcd33f30": {
+        "id": "379c15bb75695dab99b992c5bcd33f30",
+        "name": "panel",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "05e2b8bcc47f97fe0bf16012107bc90e",
+        "properties": {
+          "view": "panel_view_529-002",
+          "look": "panel_view_529-001_look_001",
+          "title": "<h5><span style=\"color:#b6076e;\"><strong>\u00a1Manos a la obra!</strong></span></h5>",
+          "title2html": "Panel title 2",
+          "title3html": "Panel title 3",
+          "backgroundImageFooter": "backgroundImage Footer",
+          "borderColor2": "",
+          "borderWidth": "",
+          "backgroundColor": "#690f44",
+          "showShadow": "true",
+          "backgroundColorHeader1": "#b6076e"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": {
+          "title": [],
+          "title2html": [],
+          "title3html": [],
+          "backgroundImageFooter": []
+        },
+        "componentChildren": ["f57a6bfdbea18dc8c65ca49361c2f1ad"]
+      },
+      "f57a6bfdbea18dc8c65ca49361c2f1ad": {
+        "id": "f57a6bfdbea18dc8c65ca49361c2f1ad",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "379c15bb75695dab99b992c5bcd33f30",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "textContent": "<p><span style=\"color:#ffffff;\">\u00a1Recuerden todo lo que han vivido y comprom\u00e9tanse a ser instrumentos de Dios!</span></p>",
+          "shortView": "view_529-001",
+          "shortLook": "look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "aab8d59e1e95c11836437b4f0794041b": {
+        "id": "aab8d59e1e95c11836437b4f0794041b",
+        "name": "row",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "05e2b8bcc47f97fe0bf16012107bc90e",
+        "properties": {
+          "view": "row_view_529-001",
+          "look": "row_view_529-001_look_001"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["f370f4fcf7de01670afd2e5e6242bebc"]
+      },
+      "f370f4fcf7de01670afd2e5e6242bebc": {
+        "id": "f370f4fcf7de01670afd2e5e6242bebc",
+        "name": "column",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "aab8d59e1e95c11836437b4f0794041b",
+        "properties": {
+          "view": "column_view_529-001",
+          "look": "column_view_529-001_look_001",
+          "size": "12",
+          "offset": "0"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["f1b9dbcedfeac5ccb409967c2ed50f5e"]
+      },
+      "f1b9dbcedfeac5ccb409967c2ed50f5e": {
+        "id": "f1b9dbcedfeac5ccb409967c2ed50f5e",
+        "name": "accordion",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f370f4fcf7de01670afd2e5e6242bebc",
+        "properties": {
+          "view": "accordion_view_529-001",
+          "look": "accordion_view_529-001_look_001",
+          "openIcon": "",
+          "closeIcon": ""
+        },
+        "resourceProperties": {
+          "openIcon": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "closeIcon": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": [],
+        "componentChildren": [
+          "e8b7c60bec9b20ad9869eaa520e50dcb",
+          "f067efc6ec270a7da7317ecfb5512395"
+        ]
+      },
+      "e8b7c60bec9b20ad9869eaa520e50dcb": {
+        "id": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "name": "accordionItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f1b9dbcedfeac5ccb409967c2ed50f5e",
+        "properties": {
+          "view": "accordionItem_view_529-001",
+          "look": "accordionItem_view_529-001_look_001",
+          "titleHtml": "Nuestro proyecto de vida, \u00bfnos permite ser instrumentos de Dios?"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": [
+          "0c61f1bdfd49433d672760499568417f",
+          "bee941a41908d7cd22d614b539669108",
+          "56e66a48bec22b0b73a9494717641718",
+          "3d841d4a833f2ad3f5ca19b045330c13",
+          "4871fb407883dc3d8772cf648f37999a",
+          "3363ed50098fc686166d08842b205cfc"
+        ]
+      },
+      "0c61f1bdfd49433d672760499568417f": {
+        "id": "0c61f1bdfd49433d672760499568417f",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-1220106563.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right",
+          "align": "ntx-comp-align-left"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "3fb362b430548a8772e8ca06e058d333",
+            "relativePath": "GettyImages-1220106563.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582835,
+            "url": "resources/7cf0d1gettyimages1220106563.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "bee941a41908d7cd22d614b539669108": {
+        "id": "bee941a41908d7cd22d614b539669108",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["c5262ee42bb8ae58673cb114b3eb092a"]
+      },
+      "c5262ee42bb8ae58673cb114b3eb092a": {
+        "id": "c5262ee42bb8ae58673cb114b3eb092a",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "bee941a41908d7cd22d614b539669108",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Tiempo estimado: 60 minutos.</span></p><p><span style=\"color:#ff0099;\">Esta sesi\u00f3n tendr\u00e1 tres momentos: el primero, de conversaci\u00f3n grupal; el segundo, de producci\u00f3n personal; y el tercero, de entrega de la bandera colaborativa a la comunidad. Para este \u00faltimo momento, recuerde establecer la fecha con alguna autoridad del colegio para que esta pueda participar y entregar a los estudiantes un presente (una escarapela, un distintivo o una bandera peque\u00f1a del pa\u00eds).</span></p><p><span style=\"color:#ff0099;\">Para el primer momento, de conversaci\u00f3n grupal, se sugiere organizar a los estudiantes sentados en un gran c\u00edrculo.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "56e66a48bec22b0b73a9494717641718": {
+        "id": "56e66a48bec22b0b73a9494717641718",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#b6076e;\"><strong>1.</strong></span><span style=\"color:#690f44;\"><strong>&nbsp;</strong></span>Piensen y compartan sus respuestas con sus compa\u00f1eros:&nbsp;</p><ul><li>\u00bfC\u00f3mo me visualizo dentro de diez a\u00f1os?</li><li>\u00bfDe qu\u00e9 manera la actividad a la que me dedique me ayudar\u00e1 a ser instrumento de Dios?</li></ul>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "3d841d4a833f2ad3f5ca19b045330c13": {
+        "id": "3d841d4a833f2ad3f5ca19b045330c13",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["d4c0b9a951415df7619553550e629536"]
+      },
+      "d4c0b9a951415df7619553550e629536": {
+        "id": "d4c0b9a951415df7619553550e629536",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "3d841d4a833f2ad3f5ca19b045330c13",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Anime a los estudiantes para que todos compartan sus respuestas.&nbsp;</span></p><p><span style=\"color:#ff0099;\">Luego, entregue a cada uno un papel de carta y un sobre, y expl\u00edqueles que la siguiente actividad es personal y no ser\u00e1 necesario compartir su producci\u00f3n con los dem\u00e1s.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "4871fb407883dc3d8772cf648f37999a": {
+        "id": "4871fb407883dc3d8772cf648f37999a",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#b6076e;\"><strong>2.&nbsp;</strong></span>Escriban una carta dirigida a ustedes mismos dentro de diez a\u00f1os: Cu\u00e9ntense c\u00f3mo se sienten en este momento y cu\u00e1les son sus proyectos. Guarden su carta como un tesoro que podr\u00e1n volver a leer a medida que pasa el tiempo.</p><p><span style=\"color:#b6076e;\"><strong>3.&nbsp;</strong></span>Acuerden una fecha con las autoridades del colegio para entregar la bandera que realizaron en el transcurso del a\u00f1o de manera colaborativa.&nbsp;</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "3363ed50098fc686166d08842b205cfc": {
+        "id": "3363ed50098fc686166d08842b205cfc",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "e8b7c60bec9b20ad9869eaa520e50dcb",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["5157bea03b055763e584e68714f54855"]
+      },
+      "5157bea03b055763e584e68714f54855": {
+        "id": "5157bea03b055763e584e68714f54855",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "3363ed50098fc686166d08842b205cfc",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Se sugiere que, para este momento, solicite a algunos alumnos que preparen unas palabras en representaci\u00f3n de todo el curso, con las que expresen cu\u00e1l fue el objetivo del trabajo y el compromiso que asumir\u00e1n con su pa\u00eds y consigo mismos de manera general. Recuerde tener preparada una escarapela, un distintivo o una peque\u00f1a bandera del pa\u00eds para que la autoridad del colegio entregue a cada estudiante como s\u00edmbolo del compromiso que asume.&nbsp;</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "f067efc6ec270a7da7317ecfb5512395": {
+        "id": "f067efc6ec270a7da7317ecfb5512395",
+        "name": "accordionItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f1b9dbcedfeac5ccb409967c2ed50f5e",
+        "properties": {
+          "view": "accordionItem_view_529-001",
+          "look": "accordionItem_view_529-001_look_001",
+          "titleHtml": "Nos comprometemos"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [] },
+        "componentChildren": [
+          "2dfd8e3d56ce48ee140a287d68298678",
+          "47b94a54148d827c1cf87f6eae5806de",
+          "51577014c265060841abf0ae8fd57249",
+          "ac9655a78516993611a61b3a507b3d02",
+          "4b77d98856244b2d16e1f54515649e02",
+          "a348b7d42872aef3c7c0b2a3fb3997ec"
+        ]
+      },
+      "2dfd8e3d56ce48ee140a287d68298678": {
+        "id": "2dfd8e3d56ce48ee140a287d68298678",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f067efc6ec270a7da7317ecfb5512395",
+        "properties": {
+          "titleInput": "",
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "GettyImages-538110890.jpg",
+          "popup": "",
+          "resourceLink": "",
+          "href": "http://",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "digitalObject": "false",
+          "hideInRessourcesMenu": "false",
+          "iconRessourcesMenu": "",
+          "width": "ntx-image-width-50",
+          "float": "right",
+          "align": "ntx-comp-align-left"
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "9a8d5652765133e36fce57b06f0b8c2d",
+            "relativePath": "GettyImages-538110890.jpg",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582820,
+            "url": "resources/1be08egettyimages538110890.jpg",
+            "width": 1100,
+            "height": 733
+          },
+          "resourceLink": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "47b94a54148d827c1cf87f6eae5806de": {
+        "id": "47b94a54148d827c1cf87f6eae5806de",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f067efc6ec270a7da7317ecfb5512395",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["b0d0b3742a033f361823e70b4b72b922"]
+      },
+      "b0d0b3742a033f361823e70b4b72b922": {
+        "id": "b0d0b3742a033f361823e70b4b72b922",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "47b94a54148d827c1cf87f6eae5806de",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Tiempo estimado: 40 minutos.</span></p><p><span style=\"color:#ff0099;\">Distribuya el tiempo de la sesi\u00f3n para el desarrollo de las actividades grupales e individuales que tienen como objetivo revisar las preguntas que se plantearon a lo largo del a\u00f1o.</span></p><p><span style=\"color:#ff0099;\">Si le parece conveniente, puede reservar la entrega de la cruz a cada estudiante para el acto acad\u00e9mico de cierre del a\u00f1o.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "51577014c265060841abf0ae8fd57249": {
+        "id": "51577014c265060841abf0ae8fd57249",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f067efc6ec270a7da7317ecfb5512395",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#b6076e;\"><strong>1.&nbsp;</strong></span>Re\u00fananse en grupos y revisen cada una de las preguntas de este itinerario:&nbsp;</p><ul><li>Etapa 1: \u00bfC\u00f3mo es mi pa\u00eds?</li><li>Etapa 2: \u00bfQu\u00e9 puedo hacer por la sociedad de mi pa\u00eds?</li><li>Etapa 3: \u00bfCu\u00e1l es mi responsabilidad como\u202fcristiano en el ejercicio de la pol\u00edtica?</li><li>Etapa 4: \u00bfC\u00f3mo podemos ser instrumentos de Dios para el desarrollo en nuestro pa\u00eds?</li></ul><p><span style=\"color:#b6076e;\"><strong>2.&nbsp;</strong></span>Teniendo en cuenta las respuestas que pensaron para las preguntas de las etapas, redacten, en grupo, una respuesta a la pregunta general del itinerario: <em>\u00bfCu\u00e1l es mi responsabilidad frente lo que sucede en mi pa\u00eds?</em> Compartan la respuesta con los dem\u00e1s equipos.</p><p><span style=\"color:#b6076e;\"><strong>3.&nbsp;</strong></span>Dediquen unos minutos para reflexionar, de manera personal, en torno a la pregunta: <em>\u00bfQu\u00e9 rol quiero asumir&nbsp;en el futuro&nbsp;para mi pa\u00eds? </em>Pi\u00e9nselo a manera de compromiso y escr\u00edbanlo.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "ac9655a78516993611a61b3a507b3d02": {
+        "id": "ac9655a78516993611a61b3a507b3d02",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f067efc6ec270a7da7317ecfb5512395",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["17ae27d6a2b47ca65fd74f36ac0c27a5"]
+      },
+      "17ae27d6a2b47ca65fd74f36ac0c27a5": {
+        "id": "17ae27d6a2b47ca65fd74f36ac0c27a5",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "ac9655a78516993611a61b3a507b3d02",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Cada estudiante se tomar\u00e1 unos momentos para, de manera personal, identificar este compromiso. Si en su curso contara con estudiantes extranjeros, com\u00e9nteles que, en este caso, pueden pensar no solo en el pa\u00eds en el que se encuentran actualmente sino, tambi\u00e9n, en el pa\u00eds del cual son originarios, o en alguno de los dos.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "4b77d98856244b2d16e1f54515649e02": {
+        "id": "4b77d98856244b2d16e1f54515649e02",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f067efc6ec270a7da7317ecfb5512395",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#b6076e;\"><strong>4.&nbsp;</strong></span>\u00a1Prep\u00e1rense para recibir un obsequio! Ser\u00e1 un s\u00edmbolo que los acompa\u00f1ar\u00e1 a lo largo de su vida y les recordar\u00e1 que siempre pueden ser instrumento de Dios.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "a348b7d42872aef3c7c0b2a3fb3997ec": {
+        "id": "a348b7d42872aef3c7c0b2a3fb3997ec",
+        "name": "teacherContent",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "f067efc6ec270a7da7317ecfb5512395",
+        "properties": {
+          "view": "teacherContent_view_529-001",
+          "look": "teacherContent_view_529-001_look_001",
+          "toggleIcon": "",
+          "toggleIconTeacher": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["a6c65f0fa9f0ed1c014bd5c346558669"]
+      },
+      "a6c65f0fa9f0ed1c014bd5c346558669": {
+        "id": "a6c65f0fa9f0ed1c014bd5c346558669",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "a348b7d42872aef3c7c0b2a3fb3997ec",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><span style=\"color:#ff0099;\">Uno por uno, invite a los estudiantes a pasar al frente, recibir su cruz y colg\u00e1rsela en el cuello a manera de compromiso con Dios. Puede acompa\u00f1ar este gesto con una tarjeta de recuerdo.</span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "c3a87f64cdf1b671c8ff36c5530c20b2": {
+        "id": "c3a87f64cdf1b671c8ff36c5530c20b2",
+        "name": "popupBlock",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "58b9065a3e627ba2a8f914ef65379993",
+        "properties": [],
+        "resourceProperties": [],
+        "htmlResourceProperties": [],
+        "componentChildren": ["2f11bd810903bdf2f5c96a746ce895b5"]
+      },
+      "2f11bd810903bdf2f5c96a746ce895b5": {
+        "id": "2f11bd810903bdf2f5c96a746ce895b5",
+        "name": "popupSingle",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "c3a87f64cdf1b671c8ff36c5530c20b2",
+        "properties": {
+          "view": "popupSingle_view_529-001",
+          "look": "popupSingle_view_529-001_look_001",
+          "title": "Mateo 28, 17-20",
+          "pageNumber": "",
+          "titleHtml": "Title popup",
+          "subtitleHtml": "Subtitle popup",
+          "overlayColor": "#79e9e5",
+          "opacityOverlay": "0.9",
+          "maxGraphicWidth": "640"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "titleHtml": [], "subtitleHtml": [] },
+        "componentChildren": ["b6b3b51e53d03a91d47115726966d595"]
+      },
+      "b6b3b51e53d03a91d47115726966d595": {
+        "id": "b6b3b51e53d03a91d47115726966d595",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "2f11bd810903bdf2f5c96a746ce895b5",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<h4><span style=\"color:#245f57;\"><em>Mateo 28, 17-20</em></span></h4><p><span style=\"color:null;\"><em>Al verlo, se postraron delante de \u00e9l; sin embargo, algunos todav\u00eda dudaron.</em></span></p><p><span style=\"color:null;\"><em>Acerc\u00e1ndose, Jes\u00fas les dijo: \u201cYo he recibido todo poder en el cielo y en la tierra.</em></span></p><p><span style=\"color:null;\"><em>Vayan, y hagan que todos los pueblos sean mis disc\u00edpulos, bautiz\u00e1ndolos en el nombre del Padre y del Hijo y del Esp\u00edritu Santo, y ense\u00f1\u00e1ndoles a cumplir todo lo que yo les he mandado. Y yo estar\u00e9 siempre con ustedes hasta el fin del mundo\u201d.</em></span></p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      },
+      "791da86b8857067f2e2294ebb56ef155": {
+        "id": "791da86b8857067f2e2294ebb56ef155",
+        "name": "footerPageBlock",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "58b9065a3e627ba2a8f914ef65379993",
+        "properties": {
+          "view": "footerPageBlock_view_529-001",
+          "text1Html": "Texto 1",
+          "text2Html": "Texto 2"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "text1Html": [], "text2Html": [] },
+        "componentChildren": ["0f3fe2c452dddbd3917f578902def44c"]
+      },
+      "0f3fe2c452dddbd3917f578902def44c": {
+        "id": "0f3fe2c452dddbd3917f578902def44c",
+        "name": "footerPageItem",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "791da86b8857067f2e2294ebb56ef155",
+        "properties": {
+          "view": "footerPageItem_view_529-001",
+          "look": "footerPageItem_view_529-001_look_001",
+          "textHtml": "footer page item",
+          "popup": ""
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textHtml": [] },
+        "componentChildren": [
+          "8c90840348f7e35ce689f9157af535e3",
+          "9505ddcc30696904fb1fcf8c6ec73542"
+        ]
+      },
+      "8c90840348f7e35ce689f9157af535e3": {
+        "id": "8c90840348f7e35ce689f9157af535e3",
+        "name": "image",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "0f3fe2c452dddbd3917f578902def44c",
+        "properties": {
+          "view": "image_view_529-001",
+          "look": "image_view_529-001_look_001",
+          "titleInput": "",
+          "title": "Image title",
+          "indexHtml": "?",
+          "alt": "",
+          "srcName": "Creo_basic_Escolar_150px.png",
+          "iconType": "image",
+          "creditsHtml": "CR\u00c9DITOS",
+          "index3Html": "X",
+          "tagHtml": "A",
+          "align": "ntx-comp-align-left",
+          "digitalObject": "false",
+          "iconRessourcesMenu": ""
+        },
+        "resourceProperties": {
+          "srcName": {
+            "id": "ba26fe52f36e5837b97005234b590548",
+            "relativePath": "Creo_basic_Escolar_150px.png",
+            "parent": null,
+            "type": "ImageResource",
+            "timestamp": 1651582335,
+            "url": "resources/creo_basic_escolar_150px.png",
+            "width": 150,
+            "height": 36
+          },
+          "iconRessourcesMenu": {
+            "id": null,
+            "relativePath": "",
+            "parent": null,
+            "type": "FileResource",
+            "timestamp": null,
+            "url": ""
+          }
+        },
+        "htmlResourceProperties": {
+          "title": [],
+          "indexHtml": [],
+          "creditsHtml": [],
+          "index3Html": [],
+          "tagHtml": []
+        },
+        "componentChildren": []
+      },
+      "9505ddcc30696904fb1fcf8c6ec73542": {
+        "id": "9505ddcc30696904fb1fcf8c6ec73542",
+        "name": "text",
+        "htmlDataRoot": false,
+        "readOnly": false,
+        "parent": "0f3fe2c452dddbd3917f578902def44c",
+        "properties": {
+          "view": "text_view_529-001",
+          "look": "text_view_529-001_look_001",
+          "liColor": "",
+          "textContent": "<p><strong>Autor\u00eda</strong>: Isabella Garc\u00eda Aguilar, Mar\u00eda Jaramillo Tovar, Samuel G\u00f3mez Ram\u00edrez,Tatiana Wills Guti\u00e9rrez.&nbsp;<strong>Asesor\u00eda Asociaci\u00f3n Santa Cruz</strong>: Jer\u00f3nimo Espinoza Olarte (asesor pastoral), Santiago Laverde Rold\u00e1n&nbsp;(asesor pedag\u00f3gico). <strong>Adaptaci\u00f3n&nbsp;para</strong>&nbsp;<strong>Am\u00e9rica Latina</strong>: Equipo editorial CREO. <strong>Fotograf\u00eda</strong>: Gettyimages.</p>",
+          "omitFocus": "false"
+        },
+        "resourceProperties": [],
+        "htmlResourceProperties": { "textContent": [] },
+        "componentChildren": []
+      }
+    }
+  }
+}
