@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>scormPlayer</title>
+    <style type="text/css" media="screen">
+        html {
+            width: 100%;
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        iframe {
+            border: 0;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+<iframe
+    src=""
+    class="ntx-scormPlayer-staticFile"
+    scrolling="no"
+    data-scormPlayerId=""
+></iframe>
+<script>
+    var allowLoadApi = true;
+    var urlData = this.getUrlData();
+    var id = urlData.compId;
+    var srcIframe = urlData._resource;
+
+    if (allowLoadApi) {
+        // api scorm 1.2
+        var API = {
+            LMSInitialize: function (message) {
+                var objectSend = {
+                    action: "LMSInitialize_1_2",
+                    message: message,
+                    id: id,
+                };
+                updateDataSession("api.Version", "1.2");
+                window.parent.postMessage(objectSend, "*");
+                return true;
+            },
+            LMSSetValue: function (name, value) {
+                var objectSend = {
+                    action: "LMSSetValue",
+                    name: name,
+                    value: value,
+                    id: id,
+                };
+                updateDataSession(name, value);
+                window.parent.postMessage(objectSend, "*");
+                return getDataSession();
+            },
+            LMSGetValue: function (name) {
+                return getDataSession(name);
+            },
+            LMSGetLastError: function () {
+                return 0;
+            },
+            LMSCommit: function (message) {
+                return true;
+            },
+            LMSFinish: function (message) {
+                return true;
+            },
+            LMSGetErrorString: function (errorNumber) {
+                return "undefined";
+            },
+            LMSGetDiagnostic: function (param) {
+                return "undefined";
+            },
+        };
+        // api scorm 2004
+        var API_1484_11 = {
+            Initialize: function (message) {
+                var objectSend = {
+                    action: "LMSInitialize_2004",
+                    message: message,
+                    id: id,
+                };
+                updateDataSession("api.Version", "2004");
+                window.parent.postMessage(objectSend, "*");
+                return true;
+            },
+            Terminate: function (message) {
+                return true;
+            },
+            GetValue: function (name) {
+                return getDataSession(name);
+            },
+            SetValue: function (name, value) {
+                var objectSend = {
+                    action: "LMSSetValue",
+                    name: name,
+                    value: value,
+                    id: id,
+                };
+                updateDataSession(name, value);
+                window.parent.postMessage(objectSend, "*");
+                return getDataSession();
+            },
+            Commit: function (message) {
+                return true;
+            },
+            GetLastError: function () {
+                return 0;
+            },
+            GetErrorString: function (errorNumber) {
+                return true;
+            },
+            GetDiagnostic: function (param) {
+                return "undefined";
+            },
+        };
+    }
+
+    function getUrlData(){
+        var query = window.location.search;
+        var urlParams = new URLSearchParams(query.replace('%26', '&'));
+        var response = [];
+        for (const [key, value] of urlParams) {
+            response[key] = value;
+        }
+        return response;
+    }
+
+    function listenParent(event) {
+        if (id && id === event.data.id) {
+            if (event.data.action === "init") {
+                initialize(event);
+            } else if (event.data.action === "initEditing") {
+                initializeEditing(event);
+            } else if (event.data.action === "updateSuspend") {
+                try {
+                    document
+                        .querySelector(".ntx-scormPlayer-staticFile")
+                        .contentWindow.app.tracking.updateSuspend();
+                } catch (e) {}
+            }
+        }
+    }
+    function initialize(event) {
+        setDataSession(event);
+        setIframe(event);
+        loadIframe();
+        if ("file:" === window.location.protocol) {
+            API.LMSInitialize("");
+        }
+    }
+    function initializeEditing(event) {
+        allowLoadApi = false;
+        setIframe(event);
+        loadIframe();
+    }
+    function setDataSession(event) {
+        var newObj = event.data.model;
+        var compId = event.data.id;
+        var restoreSession = event.data.restoreSession;
+        if (restoreSession) {
+            sessionStorage.removeItem("scormPlayerData" + compId);
+            sessionStorage.setItem(
+                "scormPlayerData" + compId,
+                JSON.stringify(newObj)
+            );
+        } else if (!sessionDataExist(compId)) {
+            sessionStorage.setItem(
+                "scormPlayerData" + compId,
+                JSON.stringify(newObj)
+            );
+        }
+    }
+    function setIframe(event) {
+        var compId = event.data.id;
+        document
+            .querySelector(".ntx-scormPlayer-staticFile")
+            .setAttribute("data-scormPlayerId", compId);
+    }
+    function getScormPlayerId() {
+        return document
+            .querySelector(".ntx-scormPlayer-staticFile")
+            .getAttribute("data-scormPlayerId");
+    }
+    function getDataSession(key = null) {
+        var scormPlayerId = getScormPlayerId();
+        var dataSession = JSON.parse(
+            sessionStorage.getItem("scormPlayerData" + scormPlayerId)
+        );
+        if (key == null) {
+            return dataSession;
+        } else {
+            return dataSession[key] || null;
+        }
+    }
+    function sessionDataExist(scormPlayerId) {
+        var dataSession = JSON.parse(
+            sessionStorage.getItem("scormPlayerData" + scormPlayerId)
+        );
+        return dataSession == null || dataSession === "" ? false : true;
+    }
+    function updateDataSession(key, value) {
+        var scormPlayerId = getScormPlayerId();
+        var dataSession = {};
+        if (sessionDataExist(scormPlayerId)) {
+            dataSession = JSON.parse(
+                sessionStorage.getItem(
+                    "scormPlayerData" + scormPlayerId
+                )
+            );
+        }
+        dataSession[key] = value;
+        sessionStorage.setItem(
+            "scormPlayerData" + scormPlayerId,
+            JSON.stringify(dataSession)
+        );
+    }
+    function loadIframe() {
+        document
+            .querySelector(".ntx-scormPlayer-staticFile")
+            .setAttribute("src", srcIframe);
+    }
+
+    window.addEventListener("message", listenParent);
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+
+{
+
+	"HTMLFileName":"index.html",
+	"symbol_stage":{
+		"defaultStageParentWidth":"1280px",
+		"dummyStageParentWidth":"1280px",
+		"defaultStageParentHeight":"800px",
+		"dummyStageParentHeight":"800px"},
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"pixelsPerMs":"0.2",
+	"usedBOM":"false",
+	"stage-Default Timeline_playhead_ms":"0",
+	"viewStartY":"0",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Precargador\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Nivel inferior\": {\
+   \"timelines\": {\
+\
+   }}\
+}"}
