@@ -1,0 +1,63 @@
+.tit{
+    background-color: #e43151;
+    color: #fff;
+    font-size: 19px;
+}
+.tit1{
+    font-size: 27px;
+    color: #e43151;
+}
+.tit2{
+    font-size:21px ;
+    color: #e43151;
+}
+.lineH{
+    position: relative;
+    border: none;
+    height: 1.5px;
+    background-color: #0175be;
+}
+.lineV{
+    position: relative;
+    border: none;
+    height: 40px;
+    width: 1.5px;
+    background-color: #0175be;
+}
+.fond1{
+    color: #fff;
+    background-color: #3491cb;
+    font-size: 13px;
+}
+.fond2{
+    color: #3491cb;
+    background-color: #d6e9f5;
+    font-size: 12px;
+}
+.contC{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-image: url(../images/new_img/circulo.png);
+}
+.contC{
+    font-size: 12px;
+}
+.contT{
+    font-size: 15px;
+}
+ul{
+    list-style-type: decimal;
+}
+
+@media (min-width: 0px){
+ 
+}
+/*/////////////sm\\\\\\\\\\*/
+@media (min-width: 576px){
+  
+}
+/*/////////////md\\\\\\\\\\*/
+@media (min-width: 768px){
+
+}
+

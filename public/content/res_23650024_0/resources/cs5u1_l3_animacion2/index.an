@@ -1,0 +1,138 @@
+
+{
+
+	"HTMLFileName":"index.html",
+	"expanded:images/plant.png":"nil",
+	"pref__general__AutoKeyframeProperties":"false",
+	"expanded:images/i_potencias.png":"nil",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Precargador\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Nivel inferior\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"expanded:images/i_t4.png":"nil",
+	"expanded:images/i_textos.png":"nil",
+	"expanded:images/i_fondo.png":"nil",
+	"expanded:images/i_neutrales.png":"nil",
+	"expanded:images/i_expa.png":"nil",
+	"pixelsPerMs":"0.0043390187642952",
+	"pref__general__GenerateSmoothTransitions":"false",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"expanded:images/i_t2.png":"nil",
+	"expanded:images/i_aliados.png":"nil",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"stage-Default Timeline_mark_ms":"-1",
+	"symbol_stage":{
+		"element_${i_t2}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"animationEnabled":"true",
+			"timelineColor":"0x00a9fa"},
+		"dummyStageParentWidth":"1280px",
+		"element_${i_expa}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79",
+			"animationEnabled":"true",
+			"invisible":"false"},
+		"dummyStageParentHeight":"800px",
+		"element_${i_t4}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"true",
+			"timelineColor":"0x63599f"},
+		"element_${i_t1}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"animationEnabled":"true",
+			"timelineColor":"0x2f73ad"},
+		"element_${i_fondo}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"locked":"false",
+			"timelineColor":"0x00a096"},
+		"element_${i_textos}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4",
+			"locked":"false",
+			"invisible":"true"},
+		"element_${i_t5}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"true",
+			"timelineColor":"0xceaef4"},
+		"vGuides":"50px,1230px",
+		"element_${plant}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"element_${i_t3}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"true",
+			"timelineColor":"0x008dc8"},
+		"element_${i_colaboradores}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"animationEnabled":"true",
+			"timelineColor":"0xffd46d"},
+		"element_${i_potencias}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"true",
+			"timelineColor":"0x50bd82"},
+		"element_${i_diviciones}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"locked":"false",
+			"timelineColor":"0xfb657a"},
+		"defaultStageParentHeight":"800px",
+		"element_${titulo}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${i_neutrales}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"true",
+			"timelineColor":"0x91c767"},
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"defaultStageParentWidth":"1280px",
+		"hGuides":"80px,98px,750px",
+		"element_${haz}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"},
+		"element_${i_aliados}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"animationEnabled":"true",
+			"timelineColor":"0xdb619d"}},
+	"TransitionIdCounter":"21",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"expanded:images/i_colaboradores.png":"nil",
+	"expanded:images/i_t1.png":"nil",
+	"expanded:images/i_diviciones.png":"nil",
+	"expanded:images/i_t5.png":"nil",
+	"nextElementColorIndex":"5",
+	"stage-Default Timeline_playhead_ms":"0",
+	"StageZoomFactor":"53",
+	"expanded:images/i_t3.png":"nil",
+	"usedBOM":"false"}
