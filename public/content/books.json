@@ -1,0 +1,227 @@
+[
+    {
+        "id": 6806,
+        "title": "CCSS5_U01_sec_2022",
+        "path": "content/res_23650024_0"
+    },
+    {
+        "id": 6860,
+        "title": "CCSS5_U02_sec_2022",
+        "path": "content/res_24303176_0"
+    },
+    {
+        "id": 6975,
+        "title": "CCSS5_U03_sec_2022",
+        "path": "content/res_24303177_0"
+    },
+    {
+        "id": 6976,
+        "title": "CCSS5_U04_sec_2022",
+        "path": "content/res_24303178_0"
+    },
+    {
+        "id": 7410,
+        "title": "CCSS5_U05_sec_2022",
+        "path": "content/res_24402905_0"
+    },
+    {
+        "id": 7411,
+        "title": "CCSS5_U06_sec_2022",
+        "path": "content/res_24402906_0"
+    },
+    {
+        "id": 7449,
+        "title": "CCSS5_U07_sec_2022",
+        "path": "content/res_24458924_0"
+    },
+    {
+        "id": 7450,
+        "title": "CCSS5_U08_sec_2022",
+        "path": "content/res_24458925_0"
+    },
+    {
+        "id": 7484,
+        "title": "COM5_BLOQUE1_UNIVERSIDAD",
+        "path": "content/res_24488811_0"
+    },
+    {
+        "id": 7485,
+        "title": "COM5_BLOQUE2_UNIVERSIDAD",
+        "path": "content/res_24488812_0"
+    },
+    {
+        "id": 7486,
+        "title": "COM5_BLOQUE3_UNIVERSIDAD",
+        "path": "content/res_24488813_0"
+    },
+    {
+        "id": 7487,
+        "title": "COM5_BLOQUE4_UNIVERSIDAD",
+        "path": "content/res_24488814_0"
+    },
+    {
+        "id": 6890,
+        "title": "COM5_U01_sec_2022",
+        "path": "content/res_23650018_0"
+    },
+    {
+        "id": 6891,
+        "title": "COM5_U02_sec_2022",
+        "path": "content/res_24303162_0"
+    },
+    {
+        "id": 7228,
+        "title": "COM5_U03_sec_2022",
+        "path": "content/res_24303163_0"
+    },
+    {
+        "id": 7229,
+        "title": "COM5_U04_sec_2022",
+        "path": "content/res_24303164_0"
+    },
+    {
+        "id": 7230,
+        "title": "COM5_U05_sec_2022",
+        "path": "content/res_24402891_0"
+    },
+    {
+        "id": 7424,
+        "title": "COM5_U06_sec_2022",
+        "path": "content/res_24402892_0"
+    },
+    {
+        "id": 7491,
+        "title": "COM5_U07_sec_2022",
+        "path": "content/res_24502916_0"
+    },
+    {
+        "id": 7492,
+        "title": "COM5_U08_sec_2022",
+        "path": "content/res_24502917_0"
+    },
+    {
+        "id": 29075,
+        "title": "CREO_Global_IVC_15_a_17_Proy2_intro",
+        "path": "content/res_25989629_0"
+    },
+    {
+        "id": 29076,
+        "title": "CREO_Global_IVC_15_a_17_Proy2_etapa_1",
+        "path": "content/res_25989630_0"
+    },
+    {
+        "id": 26999,
+        "title": "CREO_Global_IVC_15_a_17_Proy2_etapa_2",
+        "path": "content/res_25989631_0"
+    },
+    {
+        "id": 27344,
+        "title": "CREO_Global_IVC_15_a_17_Proy2_etapa_3",
+        "path": "content/res_25989632_0"
+    },
+    {
+        "id": 27414,
+        "title": "CREO_Global_IVC_15_a_17_Proy2_etapa_4",
+        "path": "content/res_25989633_0"
+    },
+    {
+        "id": 6873,
+        "title": "CT5_U01_sec_2022",
+        "path": "content/res_23650022_0"
+    },
+    {
+        "id": 6874,
+        "title": "CT5_U02_sec_2022",
+        "path": "content/res_24303171_0"
+    },
+    {
+        "id": 6983,
+        "title": "CT5_U03_sec_2022",
+        "path": "content/res_25797313_0"
+    },
+    {
+        "id": 6984,
+        "title": "CT5_U04_sec_2022",
+        "path": "content/res_24303172_0"
+    },
+    {
+        "id": 7339,
+        "title": "CT5_U05_SEC_2022",
+        "path": "content/res_24402900_0"
+    },
+    {
+        "id": 7340,
+        "title": "CT5_U06_SEC_2022",
+        "path": "content/res_24402901_0"
+    },
+    {
+        "id": 7434,
+        "title": "CT5_U07_sec_2022",
+        "path": "content/res_24458920_0"
+    },
+    {
+        "id": 7435,
+        "title": "CT5_U08_sec_2022",
+        "path": "content/res_24458921_0"
+    },
+    {
+        "id": 7471,
+        "title": "MAT5_BLOQUE1_UNIVERSIDAD",
+        "path": "content/res_24488819_0"
+    },
+    {
+        "id": 7472,
+        "title": "MAT5_BLOQUE2_UNIVERSIDAD",
+        "path": "content/res_24488820_0"
+    },
+    {
+        "id": 7473,
+        "title": "MAT5_BLOQUE3_UNIVERSIDAD",
+        "path": "content/res_24488821_0"
+    },
+    {
+        "id": 7477,
+        "title": "MAT5_BLOQUE4_UNIVERSIDAD",
+        "path": "content/res_24488822_0"
+    },
+    {
+        "id": 6884,
+        "title": "MATE5_U01_sec_2022",
+        "path": "content/res_23650020_0"
+    },
+    {
+        "id": 6893,
+        "title": "MATE5_U02_sec_2022",
+        "path": "content/res_24303165_0"
+    },
+    {
+        "id": 7017,
+        "title": "MATE5_U03_sec_2022",
+        "path": "content/res_24303166_0"
+    },
+    {
+        "id": 7018,
+        "title": "MATE5_U04_sec_2022",
+        "path": "content/res_24303167_0"
+    },
+    {
+        "id": 7416,
+        "title": "MATE5_U05_sec_2022",
+        "path": "content/res_24402895_0"
+    },
+    {
+        "id": 7417,
+        "title": "MATE5_U06_sec_2022",
+        "path": "content/res_24402896_0"
+    },
+    {
+        "id": 7456,
+        "title": "MATE5_U07_sec_2022",
+        "path": "content/res_24458916_0"
+    },
+    {
+        "id": 7455,
+        "title": "MATE5_U08_sec_2022",
+        "path": "content/res_24458917_0"
+    }
+]
